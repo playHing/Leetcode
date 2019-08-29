@@ -5,44 +5,41 @@
  */
 class Solution {
 
-    private int[] nums;
+    public int findKthLargest(int[] nums, int k) {
 
-    public int findKthLargest(int[] nums1, int k) {
-        if (nums1 == null || nums1.length == 0) return -1;
-        nums = new int[nums1.length];
-        for (int i = 0; i < nums1.length; ++i) nums[i] = nums1[i];
-        return findKthLargest(0, nums.length-1, k);
-    }
-
-    private int findKthLargest(int lo, int hi, int k) {
-        int pivot = nums[hi];
-        int loIdx = lo, hiIdx = hi;
-
-        while (true) {
-            while (nums[hiIdx] >= pivot && loIdx < hiIdx) hiIdx--;
-            while (nums[loIdx] < pivot && loIdx < hiIdx) loIdx++;
-            if (loIdx == hiIdx) {
-                if (nums[loIdx] < pivot) loIdx++;
+        k = nums.length - k;
+        int lo = 0;
+        int hi = nums.length - 1;
+        while (lo < hi) {
+            final int j = partition(nums, lo, hi);
+            if(j < k) {
+                lo = j + 1;
+            } else if (j > k) {
+                hi = j - 1;
+            } else {
                 break;
             }
-            swap(loIdx, hiIdx);
         }
-
-        if (loIdx - lo + k == hi - lo + 1) 
-            return pivot;
-        else if (loIdx - lo + k < hi - lo + 1)
-            return findKthLargest(loIdx, hi-1, k);
-        else
-            return findKthLargest(lo, hiIdx, k - (hi - hiIdx));
-
+        return nums[k];
     }
 
-    private void swap(int i, int j) {
-        int t = nums[i];
-        nums[i] = nums[j];
-        nums[j] = t;
+    private int partition(int[] a, int lo, int hi) {
+        int i = lo;
+        int j = hi + 1;
+        while(true) {
+            while(i < hi && a[++i] < a[lo]);
+            while(j > lo && a[lo] < a[--j]);
+            if(i >= j) break;
+            swap(a, i, j);
+        }
+        swap(a, lo, j);
+        return j;
     }
 
-
+    private void swap(int[] a, int i, int j) {
+        final int tmp = a[i];
+        a[i] = a[j];
+        a[j] = tmp;
+    }
 }
 
