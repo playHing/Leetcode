@@ -26,3 +26,5 @@ This work is done on VS Code with LeetCode Extension.
 | 451 | Search | sort-characters-by-frequency | [Java](451.sort-characters-by-frequency.java)
 | 1 | Search | two-sum | [Java](1.two-sum.java)
 | 15 | Search | 3-sum | [Java](15.3-sum.java)
+| 18 | Search | 4-sum | [Java](18.4-sum.java)
+| 16 | Search | 3-sum-closet | [Java](16.3-sum-closest.java)
