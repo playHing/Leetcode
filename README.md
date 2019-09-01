@@ -24,3 +24,5 @@ This work is done on VS Code with LeetCode Extension.
 | 290 | Search | word-pattern | [Java](290.word-pattern.java)
 | 205 | Search | isomorphic-strings | [Java](205.isomorphic-strings.java)
 | 451 | Search | sort-characters-by-frequency | [Java](451.sort-characters-by-frequency.java)
+| 1 | Search | two-sum | [Java](1.two-sum.java)
+| 15 | Search | 3-sum | [Java](15.3-sum.java)
