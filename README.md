@@ -19,3 +19,8 @@ This work is done on VS Code with LeetCode Extension.
 | 76 | Array | minimum-window-substring | [Java](76.minimum-window-substring.java)
 | 349 | Search | intersection-of-two-arrays | [Java](349.intersection-of-two-arrays.java)
 | 350 | Search | intersection-of-two-arrays-ii | [java](350.intersection-of-two-arrays-ii.java)
+| 242 | Search | valid-anagram | [Java](242.valid-anagram.java)
+| 202 | Search | happy-number | [Java](202.happy-number.java)
+| 290 | Search | word-pattern | [Java](290.word-pattern.java)
+| 205 | Search | isomorphic-strings | [Java](205.isomorphic-strings.java)
+| 451 | Search | sort-characters-by-frequency | [Java](451.sort-characters-by-frequency.java)
