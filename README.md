@@ -17,3 +17,5 @@ This work is done on VS Code with LeetCode Extension.
 | 3 | Array | longest-substring-without-repeating-characters | [Java](3.longest-substring-without-repeating-characters.java)
 | 438 | Array | reverse-vowels-of-a-string | [Java](345.reverse-vowels-of-a-string.java)
 | 76 | Array | minimum-window-substring | [Java](76.minimum-window-substring.java)
+| 349 | Search | intersection-of-two-arrays | [Java](349.intersection-of-two-arrays.java)
+| 350 | Search | intersection-of-two-arrays-ii | [java](350.intersection-of-two-arrays-ii.java)
