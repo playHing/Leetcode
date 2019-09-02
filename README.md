@@ -29,3 +29,6 @@ This work is done on VS Code with LeetCode Extension.
 | 18 | Search | 4-sum | [Java](18.4-sum.java)
 | 16 | Search | 3-sum-closet | [Java](16.3-sum-closest.java)
 | 454 | Search | 4-sum-ii | [Java](454.4-sum-ii.java)
+| 49 | Search | group-anagrams | [Java](49.group-anagrams.java)
+| 447 | Search | number-of-boomerangs | [Java](447.number-of-boomerangs.java)
+| 149 | Search | max-points-on-a-line | [Java](149.max-points-on-a-line.java)
