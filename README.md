@@ -32,3 +32,4 @@ This work is done on VS Code with LeetCode Extension.
 | 49 | Search | group-anagrams | [Java](49.group-anagrams.java)
 | 447 | Search | number-of-boomerangs | [Java](447.number-of-boomerangs.java)
 | 149 | Search | max-points-on-a-line | [Java](149.max-points-on-a-line.java)
+| 219 | Search | contains-duplicate-ii | [Java](219.contains-duplicate-ii.java)
