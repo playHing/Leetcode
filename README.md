@@ -35,3 +35,4 @@ This work is done on VS Code with LeetCode Extension.
 | 219 | Search | contains-duplicate-ii | [Java](219.contains-duplicate-ii.java)
 | 217 | Search | contains-duplicate | [Java](217.contains-duplicate.java)
 | 220 | Search | contains-duplicate-iii | [Java](220.contains-duplicate-iii.java)
+| 206 | Linked List | reverse-linked-list | [Java](206.reverse-linked-list.java)
