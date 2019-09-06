@@ -36,3 +36,5 @@ This work is done on VS Code with LeetCode Extension.
 | 217 | Search | contains-duplicate | [Java](217.contains-duplicate.java)
 | 220 | Search | contains-duplicate-iii | [Java](220.contains-duplicate-iii.java)
 | 206 | Linked List | reverse-linked-list | [Java](206.reverse-linked-list.java)
+| 92 | Linked List | reverse-linked-list-ii | [Java](92.reverse-linked-list-ii.java)
+| 83 | Linked List | remove-duplicates-from-sorted-list | [Java](83.remove-duplicates-from-sorted-list.java)
