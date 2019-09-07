@@ -38,3 +38,4 @@ This work is done on VS Code with LeetCode Extension.
 | 206 | Linked List | reverse-linked-list | [Java](206.reverse-linked-list.java)
 | 92 | Linked List | reverse-linked-list-ii | [Java](92.reverse-linked-list-ii.java)
 | 83 | Linked List | remove-duplicates-from-sorted-list | [Java](83.remove-duplicates-from-sorted-list.java)
+| 86 | Linked List | partition-list | [Java](86.partition-list.java)
