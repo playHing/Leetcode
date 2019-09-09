@@ -40,3 +40,4 @@ This work is done on VS Code with LeetCode Extension.
 | 83 | Linked List | remove-duplicates-from-sorted-list | [Java](83.remove-duplicates-from-sorted-list.java)
 | 86 | Linked List | partition-list | [Java](86.partition-list.java)
 | 328 | Linked List | odd-even-linked-list | [Java](328.odd-even-linked-list.java)
+| 2 | Linked List | add-two-numbers | [Java](2.add-two-numbers.java)
