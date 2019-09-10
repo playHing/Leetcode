@@ -42,3 +42,4 @@ This work is done on VS Code with LeetCode Extension.
 | 328 | Linked List | odd-even-linked-list | [Java](328.odd-even-linked-list.java)
 | 2 | Linked List | add-two-numbers | [Java](2.add-two-numbers.java)
 | 445 | Linked List | add-two-numbers-ii | [Java](445.add-two-numbers-ii.java)
+| 203 | Linked List | remove-linked-list-elements | [Java](203.remove-linked-list-elements.java)
