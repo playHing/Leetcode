@@ -43,3 +43,5 @@ This work is done on VS Code with LeetCode Extension.
 | 2 | Linked List | add-two-numbers | [Java](2.add-two-numbers.java)
 | 445 | Linked List | add-two-numbers-ii | [Java](445.add-two-numbers-ii.java)
 | 203 | Linked List | remove-linked-list-elements | [Java](203.remove-linked-list-elements.java)
+| 82 | Linked List | remove-duplicates-from-sorted-list-ii | [Java](82.remove-duplicates-from-sorted-list-ii.java)
+| 21 | Linked List | merge-two-sorted-lists | [Java](21.merge-two-sorted-lists.java)
