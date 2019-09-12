@@ -45,3 +45,4 @@ This work is done on VS Code with LeetCode Extension.
 | 203 | Linked List | remove-linked-list-elements | [Java](203.remove-linked-list-elements.java)
 | 82 | Linked List | remove-duplicates-from-sorted-list-ii | [Java](82.remove-duplicates-from-sorted-list-ii.java)
 | 21 | Linked List | merge-two-sorted-lists | [Java](21.merge-two-sorted-lists.java)
+| 24 | Linked List | swap-nodes-in-pairs | [Java](24.swap-nodes-in-pairs.java)
