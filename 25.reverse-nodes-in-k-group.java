@@ -13,49 +13,22 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        
-        if (head == null || head.next == null) return head;
-        ListNode be4Head = new ListNode(0);
-        be4Head.next = head;
-        boolean init = false;
-        ListNode be4Itr = be4Head, firstItemAtItr = be4Itr.next;
-        ListNode prev = be4Head, cur = prev.next, nex = cur.next;
-
-        while (firstItemAtItr != null) {
-            int itr = k;
-            outer:
-            for (int dump = 1; dump <= 2; ++dump) {
-
-                while (itr > 0) {
-                    if (nex == null && itr > 1) {
-                        nex = prev;
-                        prev = null;
-                        itr = k - itr + 1;
-                        continue outer;
-                    }
-                    cur.next = prev;
-                    prev = cur;
-                    cur = nex;
-                    if (nex != null) nex = nex.next;
-                    itr--;
-                }
-
-                if (dump == 2) return be4Head.next;
-                break;
-            }
-
-            be4Itr.next = prev;
-            if (!init) {
-                be4Head.next = prev;
-                init = true;
-            }
-            firstItemAtItr.next = cur;
-            be4Itr = firstItemAtItr;
-            firstItemAtItr = cur;
-            prev = be4Itr;
+        ListNode curr = head;
+        int count = 0;
+        while (curr != null && count != k) {
+            curr = curr.next;
+            count++;
         }
-        
-        return be4Head.next;
+        if (count == k) {
+            curr = reverseKGroup(curr, k);
+            while (count-- > 0) {
+                ListNode tmp = head.next;
+                head.next = curr;
+                curr = head;
+                head = tmp;
+            }
+            head = curr;
+        }
+        return head;
     }
 }
-
