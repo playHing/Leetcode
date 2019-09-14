@@ -49,3 +49,8 @@ This work is done on VS Code with LeetCode Extension.
 | 25 | Linked List | reverse-nodes-in-k-group | [Java](25.reverse-nodes-in-k-group.java)
 | 147 | Linked List | insertion-sort-list | [Java](147.insertion-sort-list.java)
 | 148 | Linked List | sort-list | [Java](148.sort-list.java)
+| 237 | Linked List | delete-node-in-a-linked-list | [Java](237.delete-node-in-a-linked-list.java)
+| 19 | Linked List | remove-nth-node-from-end-of-list | [Java](19.remove-nth-node-from-end-of-list.java)
+| 61 | Linked List | rotate-list | [Java](61.rotate-list.java)
+| 143 | Linked List | reorder-list | [Java](143.reorder-list.java)
+| 234 | Linked List | palindrome-linked-list | [Java](234.palindrome-linked-list.java)
