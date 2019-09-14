@@ -47,3 +47,5 @@ This work is done on VS Code with LeetCode Extension.
 | 21 | Linked List | merge-two-sorted-lists | [Java](21.merge-two-sorted-lists.java)
 | 24 | Linked List | swap-nodes-in-pairs | [Java](24.swap-nodes-in-pairs.java)
 | 25 | Linked List | reverse-nodes-in-k-group | [Java](25.reverse-nodes-in-k-group.java)
+| 147 | Linked List | insertion-sort-list | [Java](147.insertion-sort-list.java)
+| 148 | Linked List | sort-list | [Java](148.sort-list.java)
