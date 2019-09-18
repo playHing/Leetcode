@@ -54,3 +54,4 @@ This work is done on VS Code with LeetCode Extension.
 | 61 | Linked List | rotate-list | [Java](61.rotate-list.java)
 | 143 | Linked List | reorder-list | [Java](143.reorder-list.java)
 | 234 | Linked List | palindrome-linked-list | [Java](234.palindrome-linked-list.java)
+| 20 | Stack | valid-parentheses | [Java](20.valid-parentheses.java)
