@@ -61,3 +61,9 @@ This work is done on VS Code with LeetCode Extension.
 | 94 | Stack | binary-tree-inorder-traversal | [Java](94.binary-tree-inorder-traversal.java)
 | 145 | Stack | binary-tree-postorder-traversal | [Java](145.binary-tree-postorder-traversal.java)
 | 341 | Stack | flatten-nested-list-iterator | [Java](341.flatten-nested-list-iterator.java)
+| 107 | Queue | binary-tree-level-order-traversal-ii | [Java](107.binary-tree-level-order-traversal-ii.java)
+| 199 | Queue | binary-tree-right-side-view | [Java](199.binary-tree-right-side-view.java)
+| 279 | Queue / DP | perfect-squares | [Java](279.perfect-squares.java)
+| 127 | Queue / BFS | word-ladder | [Java](127.word-ladder.java)
+| 126 | Queue / BFS | word-ladder-ii | [Java](126.word-ladder-ii.java)
+
