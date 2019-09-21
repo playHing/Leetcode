@@ -66,4 +66,6 @@ This work is done on VS Code with LeetCode Extension.
 | 279 | Queue / DP | perfect-squares | [Java](279.perfect-squares.java)
 | 127 | Queue / BFS | word-ladder | [Java](127.word-ladder.java)
 | 126 | Queue / BFS | word-ladder-ii | [Java](126.word-ladder-ii.java)
+| 347 | Queue | top-k-frequent-elements | [Java](347.top-k-frequent-elements.java)
+| 23 | Queue | merge-k-sorted-lists | [Java](23.merge-k-sorted-lists.java)
 
