@@ -73,7 +73,7 @@ This work is done on VS Code with LeetCode Extension.
 | 226 | Recurive | invert-binary-tree | [Java](226.invert-binary-tree.java)
 | 100 | Recursive | same-tree | [Java](100.same-tree.java)
 | 101 | Recursice | symmetric-tree | [Java](101.symmetric-tree.java)
-| 222 | Queue | count-complete-tree-nodes | [Java](222.count-complete-tree-nodes.java)
+| 222 | Recursice | count-complete-tree-nodes | [Java](222.count-complete-tree-nodes.java)
 
 
 
