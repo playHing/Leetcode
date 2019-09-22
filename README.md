@@ -68,4 +68,13 @@ This work is done on VS Code with LeetCode Extension.
 | 126 | Queue / BFS | word-ladder-ii | [Java](126.word-ladder-ii.java)
 | 347 | Queue | top-k-frequent-elements | [Java](347.top-k-frequent-elements.java)
 | 23 | Queue | merge-k-sorted-lists | [Java](23.merge-k-sorted-lists.java)
+| 104 | Recursive | maximum-depth-of-binary-tree | [Java](104.maximum-depth-of-binary-tree.java)
+| 111 | Recursive | minimum-depth-of-binary-tree | [Java](111.minimum-depth-of-binary-tree.java)
+| 226 | Recurive | invert-binary-tree | [Java](226.invert-binary-tree.java)
+| 100 | Recursive | same-tree | [Java](100.same-tree.java)
+| 101 | Recursice | symmetric-tree | [Java](101.symmetric-tree.java)
+| 222 | Queue | count-complete-tree-nodes | [Java](222.count-complete-tree-nodes.java)
+
+
+
 
