@@ -74,7 +74,16 @@ This work is done on VS Code with LeetCode Extension.
 | 100 | Recursive | same-tree | [Java](100.same-tree.java)
 | 101 | Recursice | symmetric-tree | [Java](101.symmetric-tree.java)
 | 222 | Recursice | count-complete-tree-nodes | [Java](222.count-complete-tree-nodes.java)
-
-
-
-
+| 110 | Recursive | balanced-binary-tree | [Java](110.balanced-binary-tree.java)
+| 112 | Recursive | path-sum | [Java](112.path-sum.java)
+| 404 | Recursive | sum-of-left-leaves | [Java](404.sum-of-left-leaves.java)
+| 257 | Recursive | binary-tree-paths | [Java](257.binary-tree-paths.java)
+| 113 | Recursive | path-sum-ii | [Java](113.path-sum-ii.java)
+| 129 | Recursive | sum-root-to-leaf-numbers | [Java](129.sum-root-to-leaf-numbers.java)
+| 437 | Recursive | path-sum-iii | [Java](437.path-sum-iii.java)
+| 235 | BST | lowest-common-ancestor-of-a-binary-search-tree | [Java](235.lowest-common-ancestor-of-a-binary-search-tree.java)
+| 98 | BST | validate-binary-search-tree | [Java](98.validate-binary-search-tree.java)
+| 450 | BST | delete-node-in-a-bst | [Java](450.delete-node-in-a-bst.java)
+| 108 | BST | convert-sorted-array-to-binary-search-tree | [Java](108.convert-sorted-array-to-binary-search-tree.java)
+| 230 | BST | kth-smallest-element-in-a-bst | [Java](230.kth-smallest-element-in-a-bst.java)
+| 236 | BT | lowest-common-ancestor-of-a-binary-tree | [Java](236.lowest-common-ancestor-of-a-binary-tree.java)
