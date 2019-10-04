@@ -87,3 +87,4 @@ This work is done on VS Code with LeetCode Extension.
 | 108 | BST | convert-sorted-array-to-binary-search-tree | [Java](108.convert-sorted-array-to-binary-search-tree.java)
 | 230 | BST | kth-smallest-element-in-a-bst | [Java](230.kth-smallest-element-in-a-bst.java)
 | 236 | BT | lowest-common-ancestor-of-a-binary-tree | [Java](236.lowest-common-ancestor-of-a-binary-tree.java)
+| 17 | Backtracking | letter-combinations-of-a-phone-number | [Java](17.letter-combinations-of-a-phone-number.java)
