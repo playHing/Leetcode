@@ -90,3 +90,5 @@ This work is done on VS Code with LeetCode Extension.
 | 17 | Backtracking | letter-combinations-of-a-phone-number | [Java](17.letter-combinations-of-a-phone-number.java)
 | 93 | Backtracking | restore-ip-addresses | [Java](93.restore-ip-addresses.java)
 | 131 | Backtracking | palindrome-partitioning | [Java](131.palindrome-partitioning.java)
+| 46 | Backtracking | permutations | [Java](46.permutations.java)
+| 47 | Backtracking | permutations-ii | [Java](47.permutations-ii.java)
