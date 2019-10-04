@@ -10,25 +10,29 @@ class Solution {
     String[] keyboard = new String[] {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
     public List<String> letterCombinations(String digits) {
-        List<String> res = new LinkedList<>();
-        if (digits != null && digits.length() > 0)
-            combinationHelper(res, new Stack<>(), digits);
+        LinkedList<String> res = new LinkedList<>();
+        if (digits != null && digits.length() > 0) {
+            combinationHelper(res, digits);
+        }
         return res;
     }
 
-    private void combinationHelper(List<String> res, Stack<Character> stack, String digits) {
-        if (digits.length() == 0) {
-            List<Character> chars = new ArrayList<>(stack);
-            StringBuilder sb = new StringBuilder();
-            for (Character ch: chars) sb.append(ch);
-            res.add(sb.toString());
-            return;
+    private void combinationHelper(Queue<String> res, String digits) {
+        int[] digitsArr = new int[digits.length()];
+        for (int i = 0; i < digits.length(); ++i) {
+            digitsArr[i] = digits.charAt(i) - '0';
         }
-        int d = digits.charAt(0) - '0';
-        for (char c : keyboard[d].toCharArray()) {
-            stack.push(c);
-            combinationHelper(res, stack, digits.substring(1));
-            stack.pop();
+        res.offer("");
+        int round = 0;
+        while (round != digits.length()) {
+            int len = res.size();
+            for (int i = 0; i < len; ++i) {
+                String s = res.poll();
+                for (char c : keyboard[digitsArr[round]].toCharArray()) {
+                    res.offer(s + c);
+                }
+            }
+            round++;
         }
     }
 
