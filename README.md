@@ -88,3 +88,5 @@ This work is done on VS Code with LeetCode Extension.
 | 230 | BST | kth-smallest-element-in-a-bst | [Java](230.kth-smallest-element-in-a-bst.java)
 | 236 | BT | lowest-common-ancestor-of-a-binary-tree | [Java](236.lowest-common-ancestor-of-a-binary-tree.java)
 | 17 | Backtracking | letter-combinations-of-a-phone-number | [Java](17.letter-combinations-of-a-phone-number.java)
+| 93 | Backtracking | restore-ip-addresses | [Java](93.restore-ip-addresses.java)
+| 131 | Backtracking | palindrome-partitioning | [Java](131.palindrome-partitioning.java)
