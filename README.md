@@ -1,11 +1,11 @@
 # Leetcode
-Leetcode on Java, Kotlin or Go
+Leetcode on Java, Go, or Kotlin.
 
-This work is done on VS Code with LeetCode Extension.
+This exercise is done on VS Code with LeetCode Extension.
 
-| ID | Topic | Question | MySol. |
+| QID | Topic | Question | MySol. |
 | ---: | --- | --- | :---: |
-| 283 | Array | move-zeroes | [Java](283.move-zeroes.java)
+| 283 | Array | move-zeroes | [Java](283.move-zeroes.java) \| [Go](283.move-zeroes.go)
 | 27 | Array | remove-element | [Java](27.remove-element.java)
 | 75 | Array | sort-colors | [Java](75.sort-colors.java)
 | 88 | Array | merge-sorted-array | [Java](88.merge-sorted-array.java)
