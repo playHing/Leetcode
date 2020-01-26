@@ -105,3 +105,5 @@ This exercise is done on VS Code with LeetCode Extension.
 | 417 | Floodfill | pacific-atlantic-water-flow | [Java](417.pacific-atlantic-water-flow.java)
 | 51 | classic-AI | n-queens | [Java](51.n-queens.java)
 | 37 | classic-AI | sudoku-solver | [Java](37.sudoku-solver.java)
+| 70 | DP | climbing-stairs ｜ [Java](70.climbing-stairs.java)
+| 120 | DP | triangle | [Java](120.triangle.java)
