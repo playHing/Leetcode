@@ -1,109 +1,109 @@
-# Leetcode
-Leetcode on Java, Go, or Kotlin.
+# leetcode
 
-This exercise is done on VS Code with LeetCode Extension.
+leetcode on Go, Java, or Kotlin, or Rust.\
+Env: VS Code + LeetCode Extension.
 
-| QID | Topic | Question | MySol. |
-| ---: | --- | --- | :---: |
-| 283 | Array | move-zeroes | [Java](283.move-zeroes.java) \| [Go](283.move-zeroes.go)
-| 27 | Array | remove-element | [Java](27.remove-element.java) \| [Go](27.remove-element.go)
-| 75 | Array | sort-colors | [Java](75.sort-colors.java) \| [Go](75.sort-colors.go)
-| 88 | Array | merge-sorted-array | [Java](88.merge-sorted-array.java)
-| 215 | Array | kth-largest-element-in-an-array | [Java](215.kth-largest-element-in-an-array.java)
-| 167 | Array | two-sum-ii-input-array-is-sorted | [Java](167.two-sum-ii-input-array-is-sorted.java)
-| 125 | Array | valid-palindrome | [Java](125.valid-palindrome.java)
-| 345 | Array | reverse-vowels-of-a-string | [Java](345.reverse-vowels-of-a-string.java)
-| 209 | Array | minimum-size-subarray-sum | [Java](209.minimum-size-subarray-sum.java)
-| 3 | Array | longest-substring-without-repeating-characters | [Java](3.longest-substring-without-repeating-characters.java)
-| 438 | Array | reverse-vowels-of-a-string | [Java](345.reverse-vowels-of-a-string.java)
-| 76 | Array | minimum-window-substring | [Java](76.minimum-window-substring.java)
-| 349 | Search | intersection-of-two-arrays | [Java](349.intersection-of-two-arrays.java)
-| 350 | Search | intersection-of-two-arrays-ii | [Java](350.intersection-of-two-arrays-ii.java)
-| 242 | Search | valid-anagram | [Java](242.valid-anagram.java)
-| 202 | Search | happy-number | [Java](202.happy-number.java)
-| 290 | Search | word-pattern | [Java](290.word-pattern.java)
-| 205 | Search | isomorphic-strings | [Java](205.isomorphic-strings.java)
-| 451 | Search | sort-characters-by-frequency | [Java](451.sort-characters-by-frequency.java)
-| 1 | Search | two-sum | [Java](1.two-sum.java)
-| 15 | Search | 3-sum | [Java](15.3-sum.java)
-| 18 | Search | 4-sum | [Java](18.4-sum.java)
-| 16 | Search | 3-sum-closet | [Java](16.3-sum-closest.java)
-| 454 | Search | 4-sum-ii | [Java](454.4-sum-ii.java)
-| 49 | Search | group-anagrams | [Java](49.group-anagrams.java)
-| 447 | Search | number-of-boomerangs | [Java](447.number-of-boomerangs.java)
-| 149 | Search | max-points-on-a-line | [Java](149.max-points-on-a-line.java)
-| 219 | Search | contains-duplicate-ii | [Java](219.contains-duplicate-ii.java)
-| 217 | Search | contains-duplicate | [Java](217.contains-duplicate.java)
-| 220 | Search | contains-duplicate-iii | [Java](220.contains-duplicate-iii.java)
-| 206 | Linked List | reverse-linked-list | [Java](206.reverse-linked-list.java)
-| 92 | Linked List | reverse-linked-list-ii | [Java](92.reverse-linked-list-ii.java)
-| 83 | Linked List | remove-duplicates-from-sorted-list | [Java](83.remove-duplicates-from-sorted-list.java)
-| 86 | Linked List | partition-list | [Java](86.partition-list.java)
-| 328 | Linked List | odd-even-linked-list | [Java](328.odd-even-linked-list.java)
-| 2 | Linked List | add-two-numbers | [Java](2.add-two-numbers.java)
-| 445 | Linked List | add-two-numbers-ii | [Java](445.add-two-numbers-ii.java)
-| 203 | Linked List | remove-linked-list-elements | [Java](203.remove-linked-list-elements.java)
-| 82 | Linked List | remove-duplicates-from-sorted-list-ii | [Java](82.remove-duplicates-from-sorted-list-ii.java)
-| 21 | Linked List | merge-two-sorted-lists | [Java](21.merge-two-sorted-lists.java)
-| 24 | Linked List | swap-nodes-in-pairs | [Java](24.swap-nodes-in-pairs.java)
-| 25 | Linked List | reverse-nodes-in-k-group | [Java](25.reverse-nodes-in-k-group.java)
-| 147 | Linked List | insertion-sort-list | [Java](147.insertion-sort-list.java)
-| 148 | Linked List | sort-list | [Java](148.sort-list.java)
-| 237 | Linked List | delete-node-in-a-linked-list | [Java](237.delete-node-in-a-linked-list.java)
-| 19 | Linked List | remove-nth-node-from-end-of-list | [Java](19.remove-nth-node-from-end-of-list.java)
-| 61 | Linked List | rotate-list | [Java](61.rotate-list.java)
-| 143 | Linked List | reorder-list | [Java](143.reorder-list.java)
-| 234 | Linked List | palindrome-linked-list | [Java](234.palindrome-linked-list.java)
-| 20 | Stack | valid-parentheses | [Java](20.valid-parentheses.java)
-| 150 | Stack | evaluate-reverse-polish-notation | [Java](150.evaluate-reverse-polish-notation.java)
-| 71 | Stack | simplify-path | [Java](71.simplify-path.java)
-| 144 | Stack | binary-tree-preorder-traversal | [Java](144.binary-tree-preorder-traversal.java)
-| 94 | Stack | binary-tree-inorder-traversal | [Java](94.binary-tree-inorder-traversal.java)
-| 145 | Stack | binary-tree-postorder-traversal | [Java](145.binary-tree-postorder-traversal.java)
-| 341 | Stack | flatten-nested-list-iterator | [Java](341.flatten-nested-list-iterator.java)
-| 107 | Queue | binary-tree-level-order-traversal-ii | [Java](107.binary-tree-level-order-traversal-ii.java)
-| 199 | Queue | binary-tree-right-side-view | [Java](199.binary-tree-right-side-view.java)
-| 279 | Queue / DP | perfect-squares | [Java](279.perfect-squares.java)
-| 127 | Queue / BFS | word-ladder | [Java](127.word-ladder.java)
-| 126 | Queue / BFS | word-ladder-ii | [Java](126.word-ladder-ii.java)
-| 347 | Queue | top-k-frequent-elements | [Java](347.top-k-frequent-elements.java)
-| 23 | Queue | merge-k-sorted-lists | [Java](23.merge-k-sorted-lists.java)
-| 104 | Recursive | maximum-depth-of-binary-tree | [Java](104.maximum-depth-of-binary-tree.java)
-| 111 | Recursive | minimum-depth-of-binary-tree | [Java](111.minimum-depth-of-binary-tree.java)
-| 226 | Recurive | invert-binary-tree | [Java](226.invert-binary-tree.java)
-| 100 | Recursive | same-tree | [Java](100.same-tree.java)
-| 101 | Recursice | symmetric-tree | [Java](101.symmetric-tree.java)
-| 222 | Recursice | count-complete-tree-nodes | [Java](222.count-complete-tree-nodes.java)
-| 110 | Recursive | balanced-binary-tree | [Java](110.balanced-binary-tree.java)
-| 112 | Recursive | path-sum | [Java](112.path-sum.java)
-| 404 | Recursive | sum-of-left-leaves | [Java](404.sum-of-left-leaves.java)
-| 257 | Recursive | binary-tree-paths | [Java](257.binary-tree-paths.java)
-| 113 | Recursive | path-sum-ii | [Java](113.path-sum-ii.java)
-| 129 | Recursive | sum-root-to-leaf-numbers | [Java](129.sum-root-to-leaf-numbers.java)
-| 437 | Recursive | path-sum-iii | [Java](437.path-sum-iii.java)
-| 235 | BST | lowest-common-ancestor-of-a-binary-search-tree | [Java](235.lowest-common-ancestor-of-a-binary-search-tree.java)
-| 98 | BST | validate-binary-search-tree | [Java](98.validate-binary-search-tree.java)
-| 450 | BST | delete-node-in-a-bst | [Java](450.delete-node-in-a-bst.java)
-| 108 | BST | convert-sorted-array-to-binary-search-tree | [Java](108.convert-sorted-array-to-binary-search-tree.java)
-| 230 | BST | kth-smallest-element-in-a-bst | [Java](230.kth-smallest-element-in-a-bst.java)
-| 236 | BT | lowest-common-ancestor-of-a-binary-tree | [Java](236.lowest-common-ancestor-of-a-binary-tree.java)
-| 17 | Backtracking | letter-combinations-of-a-phone-number | [Java](17.letter-combinations-of-a-phone-number.java)
-| 93 | Backtracking | restore-ip-addresses | [Java](93.restore-ip-addresses.java)
-| 131 | Backtracking | palindrome-partitioning | [Java](131.palindrome-partitioning.java)
-| 46 | Backtracking | permutations | [Java](46.permutations.java)
-| 47 | Backtracking | permutations-ii | [Java](47.permutations-ii.java)
-| 77 | Backtracking | combinations | [Java](77.combinations.java)
-| 39 | Backtracking | combination-sum | [Java](39.combination-sum.java)
-| 40 | Backtracking | combination-sum-ii | [Java](40.combination-sum-ii.java)
-| 216 | Backtracking | combination-sum-iii | [Java](216.combination-sum-iii.java)
-| 78 | Backtracking | subsets | [Java](78.subsets.java)
-| 90 | Backtracking | subsets-ii | [Java](90.subsets-ii.java)
-| 401 | Backtracking | binary-watch | [Java](401.binary-watch.java)
-| 79 | Backtracking | word-search | [Java](79.word-search.java)
-| 200 | Floodfill | number-of-islands | [Java](200.number-of-islands.java)
-| 130 | Floodfill | surrounded-regions | [Java](130.surrounded-regions.java)
-| 417 | Floodfill | pacific-atlantic-water-flow | [Java](417.pacific-atlantic-water-flow.java)
-| 51 | classic-AI | n-queens | [Java](51.n-queens.java)
-| 37 | classic-AI | sudoku-solver | [Java](37.sudoku-solver.java)
-| 70 | DP | climbing-stairs | [Java](70.climbing-stairs.java)
-| 120 | DP | triangle | [Java](120.triangle.java)
+| QID | Topic | Question | | Sol |
+| ---: | --- | --- | ---: | ---: |
+| 283 | Array | move-zeroes | [Go](go/283.move-zeroes.go) | [Java](java/283.move-zeroes.java) |
+| 27 | Array | remove-element | [Go](go/27.remove-element.go) | [Java](java/27.remove-element.java) |
+| 75 | Array | sort-colors | [Go](go/75.sort-colors.go) | [Java](java/75.sort-colors.java) |
+| 88 | Array | merge-sorted-array | [Go](go/88.merge-sorted-array.go) | [Java](java/88.merge-sorted-array.java) |
+| 215 | Array | kth-largest-element-in-an-array | <del>[Go](go/215.kth-largest-element-in-an-array.go) | [Java](java/215.kth-largest-element-in-an-array.java) |
+| 167 | Array | two-sum-ii-input-array-is-sorted | <del>[Go](go/167.two-sum-ii-input-array-is-sorted.go) | [Java](java/167.two-sum-ii-input-array-is-sorted.java) |
+| 125 | Array | valid-palindrome | <del>[Go](go/125.valid-palindrome.go) | [Java](java/125.valid-palindrome.java) |
+| 345 | Array | reverse-vowels-of-a-string | <del>[Go](go/345.reverse-vowels-of-a-string.go) | [Java](java/345.reverse-vowels-of-a-string.java) |
+| 209 | Array | minimum-size-subarray-sum | <del>[Go](go/209.minimum-size-subarray-sum.go) | [Java](java/209.minimum-size-subarray-sum.java) |
+| 3 | Array | longest-substring-without-repeating-characters | <del>[Go](go/3.longest-substring-without-repeating-characters.go) | [Java](java/3.longest-substring-without-repeating-characters.java) |
+| 438 | Array | reverse-vowels-of-a-string | <del>[Go](go/345.reverse-vowels-of-a-string.go) | [Java](java/345.reverse-vowels-of-a-string.java) |
+| 76 | Array | minimum-window-substring | <del>[Go](go/76.minimum-window-substring.go) | [Java](java/76.minimum-window-substring.java) |
+| 349 | Search | intersection-of-two-arrays | <del>[Go](go/349.intersection-of-two-arrays.go) | [Java](java/349.intersection-of-two-arrays.java) |
+| 350 | Search | intersection-of-two-arrays-ii | <del>[Go](go/350.intersection-of-two-arrays-ii.go) | [Java](java/350.intersection-of-two-arrays-ii.java) |
+| 242 | Search | valid-anagram | <del>[Go](go/242.valid-anagram.go) | [Java](java/242.valid-anagram.java) |
+| 202 | Search | happy-number | <del>[Go](go/202.happy-number.go) | [Java](java/202.happy-number.java) |
+| 290 | Search | word-pattern | <del>[Go](go/290.word-pattern.go) | [Java](java/290.word-pattern.java) |
+| 205 | Search | isomorphic-strings | <del>[Go](go/205.isomorphic-strings.go) | [Java](java/205.isomorphic-strings.java) |
+| 451 | Search | sort-characters-by-frequency | <del>[Go](go/451.sort-characters-by-frequency.go) | [Java](java/451.sort-characters-by-frequency.java) |
+| 1 | Search | two-sum | <del>[Go](go/1.two-sum.go) | [Java](java/1.two-sum.java) |
+| 15 | Search | 3-sum | <del>[Go](go/15.3-sum.go) | [Java](java/15.3-sum.java) |
+| 18 | Search | 4-sum | <del>[Go](go/18.4-sum.go) | [Java](java/18.4-sum.java) |
+| 16 | Search | 3-sum-closet | <del>[Go](go/16.3-sum-closest.go) | [Java](java/16.3-sum-closest.java) |
+| 454 | Search | 4-sum-ii | <del>[Go](go/454.4-sum-ii.go) | [Java](java/454.4-sum-ii.java) |
+| 49 | Search | group-anagrams | <del>[Go](go/49.group-anagrams.go) | [Java](java/49.group-anagrams.java) |
+| 447 | Search | number-of-boomerangs | <del>[Go](go/447.number-of-boomerangs.go) | [Java](java/447.number-of-boomerangs.java) |
+| 149 | Search | max-points-on-a-line | <del>[Go](go/149.max-points-on-a-line.go) | [Java](java/149.max-points-on-a-line.java) |
+| 219 | Search | contains-duplicate-ii | <del>[Go](go/219.contains-duplicate-ii.go) | [Java](java/219.contains-duplicate-ii.java) |
+| 217 | Search | contains-duplicate | <del>[Go](go/217.contains-duplicate.go) | [Java](java/217.contains-duplicate.java) |
+| 220 | Search | contains-duplicate-iii | <del>[Go](go/220.contains-duplicate-iii.go) | [Java](java/220.contains-duplicate-iii.java) |
+| 206 | Linked List | reverse-linked-list | <del>[Go](go/206.reverse-linked-list.go) | [Java](java/206.reverse-linked-list.java) |
+| 92 | Linked List | reverse-linked-list-ii | <del>[Go](go/92.reverse-linked-list-ii.go) | [Java](java/92.reverse-linked-list-ii.java) |
+| 83 | Linked List | remove-duplicates-from-sorted-list | <del>[Go](go/83.remove-duplicates-from-sorted-list.go) | [Java](java/83.remove-duplicates-from-sorted-list.java) |
+| 86 | Linked List | partition-list | <del>[Go](go/86.partition-list.go) | [Java](java/86.partition-list.java) |
+| 328 | Linked List | odd-even-linked-list | <del>[Go](go/328.odd-even-linked-list.go) | [Java](java/328.odd-even-linked-list.java) |
+| 2 | Linked List | add-two-numbers | <del>[Go](go/2.add-two-numbers.go) | [Java](java/2.add-two-numbers.java) |
+| 445 | Linked List | add-two-numbers-ii | <del>[Go](go/445.add-two-numbers-ii.go) | [Java](java/445.add-two-numbers-ii.java) |
+| 203 | Linked List | remove-linked-list-elements | <del>[Go](go/203.remove-linked-list-elements.go) | [Java](java/203.remove-linked-list-elements.java) |
+| 82 | Linked List | remove-duplicates-from-sorted-list-ii | <del>[Go](go/82.remove-duplicates-from-sorted-list-ii.go) | [Java](java/82.remove-duplicates-from-sorted-list-ii.java) |
+| 21 | Linked List | merge-two-sorted-lists | <del>[Go](go/21.merge-two-sorted-lists.go) | [Java](java/21.merge-two-sorted-lists.java) |
+| 24 | Linked List | swap-nodes-in-pairs | <del>[Go](go/24.swap-nodes-in-pairs.go) | [Java](java/24.swap-nodes-in-pairs.java) |
+| 25 | Linked List | reverse-nodes-in-k-group | <del>[Go](go/25.reverse-nodes-in-k-group.go) | [Java](java/25.reverse-nodes-in-k-group.java) |
+| 147 | Linked List | insertion-sort-list | <del>[Go](go/147.insertion-sort-list.go) | [Java](java/147.insertion-sort-list.java) |
+| 148 | Linked List | sort-list | <del>[Go](go/148.sort-list.go) | [Java](java/148.sort-list.java) |
+| 237 | Linked List | delete-node-in-a-linked-list | <del>[Go](go/237.delete-node-in-a-linked-list.go) | [Java](java/237.delete-node-in-a-linked-list.java) |
+| 19 | Linked List | remove-nth-node-from-end-of-list | <del>[Go](go/19.remove-nth-node-from-end-of-list.go) | [Java](java/19.remove-nth-node-from-end-of-list.java) |
+| 61 | Linked List | rotate-list | <del>[Go](go/61.rotate-list.go) | [Java](java/61.rotate-list.java) |
+| 143 | Linked List | reorder-list | <del>[Go](go/143.reorder-list.go) | [Java](java/143.reorder-list.java) |
+| 234 | Linked List | palindrome-linked-list | <del>[Go](go/234.palindrome-linked-list.go) | [Java](java/234.palindrome-linked-list.java) |
+| 20 | Stack | valid-parentheses | <del>[Go](go/20.valid-parentheses.go) | [Java](java/20.valid-parentheses.java) |
+| 150 | Stack | evaluate-reverse-polish-notation | <del>[Go](go/150.evaluate-reverse-polish-notation.go) | [Java](java/150.evaluate-reverse-polish-notation.java) |
+| 71 | Stack | simplify-path | <del>[Go](go/71.simplify-path.go) | [Java](java/71.simplify-path.java) |
+| 144 | Stack | binary-tree-preorder-traversal | <del>[Go](go/144.binary-tree-preorder-traversal.go) | [Java](java/144.binary-tree-preorder-traversal.java) |
+| 94 | Stack | binary-tree-inorder-traversal | <del>[Go](go/94.binary-tree-inorder-traversal.go) | [Java](java/94.binary-tree-inorder-traversal.java) |
+| 145 | Stack | binary-tree-postorder-traversal | <del>[Go](go/145.binary-tree-postorder-traversal.go) | [Java](java/145.binary-tree-postorder-traversal.java) |
+| 341 | Stack | flatten-nested-list-iterator | <del>[Go](go/341.flatten-nested-list-iterator.go) | [Java](java/341.flatten-nested-list-iterator.java) |
+| 107 | Queue | binary-tree-level-order-traversal-ii | <del>[Go](go/107.binary-tree-level-order-traversal-ii.go) | [Java](java/107.binary-tree-level-order-traversal-ii.java) |
+| 199 | Queue | binary-tree-right-side-view | <del>[Go](go/199.binary-tree-right-side-view.go) | [Java](java/199.binary-tree-right-side-view.java) |
+| 279 | Queue / DP | perfect-squares | <del>[Go](go/279.perfect-squares.go) | [Java](java/279.perfect-squares.java) |
+| 127 | Queue / BFS | word-ladder | <del>[Go](go/127.word-ladder.go) | [Java](java/127.word-ladder.java) |
+| 126 | Queue / BFS | word-ladder-ii | <del>[Go](go/126.word-ladder-ii.go) | [Java](java/126.word-ladder-ii.java) |
+| 347 | Queue | top-k-frequent-elements | <del>[Go](go/347.top-k-frequent-elements.go) | [Java](java/347.top-k-frequent-elements.java) |
+| 23 | Queue | merge-k-sorted-lists | <del>[Go](go/23.merge-k-sorted-lists.go) | [Java](java/23.merge-k-sorted-lists.java) |
+| 104 | Recursive | maximum-depth-of-binary-tree | <del>[Go](go/104.maximum-depth-of-binary-tree.go) | [Java](java/104.maximum-depth-of-binary-tree.java) |
+| 111 | Recursive | minimum-depth-of-binary-tree | <del>[Go](go/111.minimum-depth-of-binary-tree.go) | [Java](java/111.minimum-depth-of-binary-tree.java) |
+| 226 | Recurive | invert-binary-tree | <del>[Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
+| 100 | Recursive | same-tree | <del>[Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
+| 101 | Recursice | symmetric-tree | <del>[Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
+| 222 | Recursice | count-complete-tree-nodes | <del>[Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) |
+| 110 | Recursive | balanced-binary-tree | <del>[Go](go/110.balanced-binary-tree.go) | [Java](java/110.balanced-binary-tree.java) |
+| 112 | Recursive | path-sum | <del>[Go](go/112.path-sum.go) | [Java](java/112.path-sum.java) |
+| 404 | Recursive | sum-of-left-leaves | <del>[Go](go/404.sum-of-left-leaves.go) | [Java](java/404.sum-of-left-leaves.java) |
+| 257 | Recursive | binary-tree-paths | <del>[Go](go/257.binary-tree-paths.go) | [Java](java/257.binary-tree-paths.java) |
+| 113 | Recursive | path-sum-ii | <del>[Go](go/113.path-sum-ii.go) | [Java](java/113.path-sum-ii.java) |
+| 129 | Recursive | sum-root-to-leaf-numbers | <del>[Go](go/129.sum-root-to-leaf-numbers.go) | [Java](java/129.sum-root-to-leaf-numbers.java) |
+| 437 | Recursive | path-sum-iii | <del>[Go](go/437.path-sum-iii.go) | [Java](java/437.path-sum-iii.java) |
+| 235 | BST | lowest-common-ancestor-of-a-binary-search-tree | <del>[Go](go/235.lowest-common-ancestor-of-a-binary-search-tree.go) | [Java](java/235.lowest-common-ancestor-of-a-binary-search-tree.java) |
+| 98 | BST | validate-binary-search-tree | <del>[Go](go/98.validate-binary-search-tree.go) | [Java](java/98.validate-binary-search-tree.java) |
+| 450 | BST | delete-node-in-a-bst | <del>[Go](go/450.delete-node-in-a-bst.go) | [Java](java/450.delete-node-in-a-bst.java) |
+| 108 | BST | convert-sorted-array-to-binary-search-tree | <del>[Go](go/108.convert-sorted-array-to-binary-search-tree.go) | [Java](java/108.convert-sorted-array-to-binary-search-tree.java) |
+| 230 | BST | kth-smallest-element-in-a-bst | <del>[Go](go/230.kth-smallest-element-in-a-bst.go) | [Java](java/230.kth-smallest-element-in-a-bst.java) |
+| 236 | BT | lowest-common-ancestor-of-a-binary-tree | <del>[Go](go/236.lowest-common-ancestor-of-a-binary-tree.go) | [Java](java/236.lowest-common-ancestor-of-a-binary-tree.java) |
+| 17 | Backtracking | letter-combinations-of-a-phone-number | <del>[Go](go/17.letter-combinations-of-a-phone-number.go) | [Java](java/17.letter-combinations-of-a-phone-number.java) |
+| 93 | Backtracking | restore-ip-addresses | <del>[Go](go/93.restore-ip-addresses.go) | [Java](java/93.restore-ip-addresses.java) |
+| 131 | Backtracking | palindrome-partitioning | <del>[Go](go/131.palindrome-partitioning.go) | [Java](java/131.palindrome-partitioning.java) |
+| 46 | Backtracking | permutations | <del>[Go](go/46.permutations.go) | [Java](java/46.permutations.java) |
+| 47 | Backtracking | permutations-ii | <del>[Go](go/47.permutations-ii.go) | [Java](java/47.permutations-ii.java) |
+| 77 | Backtracking | combinations | <del>[Go](go/77.combinations.go) | [Java](java/77.combinations.java) |
+| 39 | Backtracking | combination-sum | <del>[Go](go/39.combination-sum.go) | [Java](java/39.combination-sum.java) |
+| 40 | Backtracking | combination-sum-ii | <del>[Go](go/40.combination-sum-ii.go) | [Java](java/40.combination-sum-ii.java) |
+| 216 | Backtracking | combination-sum-iii | <del>[Go](go/216.combination-sum-iii.go) | [Java](java/216.combination-sum-iii.java) |
+| 78 | Backtracking | subsets | <del>[Go](go/78.subsets.go) | [Java](java/78.subsets.java) |
+| 90 | Backtracking | subsets-ii | <del>[Go](go/90.subsets-ii.go) | [Java](java/90.subsets-ii.java) |
+| 401 | Backtracking | binary-watch | <del>[Go](go/401.binary-watch.go) | [Java](java/401.binary-watch.java) |
+| 79 | Backtracking | word-search | <del>[Go](go/79.word-search.go) | [Java](java/79.word-search.java) |
+| 200 | Floodfill | number-of-islands | <del>[Go](go/200.number-of-islands.go) | [Java](java/200.number-of-islands.java) |
+| 130 | Floodfill | surrounded-regions | <del>[Go](go/130.surrounded-regions.go) | [Java](java/130.surrounded-regions.java) |
+| 417 | Floodfill | pacific-atlantic-water-flow | <del>[Go](go/417.pacific-atlantic-water-flow.go) | [Java](java/417.pacific-atlantic-water-flow.java) |
+| 51 | classic-AI | n-queens | <del>[Go](go/51.n-queens.go) | [Java](java/51.n-queens.java) |
+| 37 | classic-AI | sudoku-solver | <del>[Go](go/37.sudoku-solver.go) | [Java](java/37.sudoku-solver.java) |
+| 70 | DP | climbing-stairs | <del>[Go](go/70.climbing-stairs.go) | [Java](java/70.climbing-stairs.java) |
+| 120 | DP | triangle | <del>[Go](go/120.triangle.go) | [Java](java/120.triangle.java) |
