@@ -9,7 +9,7 @@ Env: VS Code + LeetCode Extension.
 | 27 | Array | remove-element | [Go](go/27.remove-element.go) | [Java](java/27.remove-element.java) |
 | 75 | Array | sort-colors | [Go](go/75.sort-colors.go) | [Java](java/75.sort-colors.java) |
 | 88 | Array | merge-sorted-array | [Go](go/88.merge-sorted-array.go) | [Java](java/88.merge-sorted-array.java) |
-| 215 | Array | kth-largest-element-in-an-array | <del>[Go](go/215.kth-largest-element-in-an-array.go) | [Java](java/215.kth-largest-element-in-an-array.java) |
+| 215 | Array | kth-largest-element-in-an-array | [Go](go/215.kth-largest-element-in-an-array.go) | [Java](java/215.kth-largest-element-in-an-array.java) |
 | 167 | Array | two-sum-ii-input-array-is-sorted | <del>[Go](go/167.two-sum-ii-input-array-is-sorted.go) | [Java](java/167.two-sum-ii-input-array-is-sorted.java) |
 | 125 | Array | valid-palindrome | <del>[Go](go/125.valid-palindrome.go) | [Java](java/125.valid-palindrome.java) |
 | 345 | Array | reverse-vowels-of-a-string | <del>[Go](go/345.reverse-vowels-of-a-string.go) | [Java](java/345.reverse-vowels-of-a-string.java) |
