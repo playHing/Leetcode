@@ -10,11 +10,11 @@ Env: VS Code + LeetCode Extension.
 | 75 | Array | sort-colors | [Go](go/75.sort-colors.go) | [Java](java/75.sort-colors.java) |
 | 88 | Array | merge-sorted-array | [Go](go/88.merge-sorted-array.go) | [Java](java/88.merge-sorted-array.java) |
 | 215 | Array | kth-largest-element-in-an-array | [Go](go/215.kth-largest-element-in-an-array.go) | [Java](java/215.kth-largest-element-in-an-array.java) |
-| 167 | Array | two-sum-ii-input-array-is-sorted | <del>[Go](go/167.two-sum-ii-input-array-is-sorted.go) | [Java](java/167.two-sum-ii-input-array-is-sorted.java) |
-| 125 | Array | valid-palindrome | <del>[Go](go/125.valid-palindrome.go) | [Java](java/125.valid-palindrome.java) |
-| 345 | Array | reverse-vowels-of-a-string | <del>[Go](go/345.reverse-vowels-of-a-string.go) | [Java](java/345.reverse-vowels-of-a-string.java) |
-| 209 | Array | minimum-size-subarray-sum | <del>[Go](go/209.minimum-size-subarray-sum.go) | [Java](java/209.minimum-size-subarray-sum.java) |
-| 3 | Array | longest-substring-without-repeating-characters | <del>[Go](go/3.longest-substring-without-repeating-characters.go) | [Java](java/3.longest-substring-without-repeating-characters.java) |
+| 167 | Array | two-sum-ii-input-array-is-sorted | [Go](go/167.two-sum-ii-input-array-is-sorted.go) | [Java](java/167.two-sum-ii-input-array-is-sorted.java) |
+| 125 | Array | valid-palindrome | [Go](go/125.valid-palindrome.go) | [Java](java/125.valid-palindrome.java) |
+| 345 | Array | reverse-vowels-of-a-string | [Go](go/345.reverse-vowels-of-a-string.go) | [Java](java/345.reverse-vowels-of-a-string.java) |
+| 209 | Array | minimum-size-subarray-sum | [Go](go/209.minimum-size-subarray-sum.go) | [Java](java/209.minimum-size-subarray-sum.java) |
+| 3 | Array | longest-substring-without-repeating-characters | [Go](go/3.longest-substring-without-repeating-characters.go) | [Java](java/3.longest-substring-without-repeating-characters.java) |
 | 438 | Array | reverse-vowels-of-a-string | <del>[Go](go/345.reverse-vowels-of-a-string.go) | [Java](java/345.reverse-vowels-of-a-string.java) |
 | 76 | Array | minimum-window-substring | <del>[Go](go/76.minimum-window-substring.go) | [Java](java/76.minimum-window-substring.java) |
 | 349 | Search | intersection-of-two-arrays | <del>[Go](go/349.intersection-of-two-arrays.go) | [Java](java/349.intersection-of-two-arrays.java) |
