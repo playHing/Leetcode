@@ -3,18 +3,18 @@
 leetcode on Go, Java, or Kotlin, or Rust.\
 Env: VS Code + LeetCode Extension.
 
-| QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: |
+| QID | Topic | Question | | Sol | Fav |
+| ---: | --- | --- | ---: | ---: | --- |
 | 283 | Array | move-zeroes | [Go](go/283.move-zeroes.go) | [Java](java/283.move-zeroes.java) |
 | 27 | Array | remove-element | [Go](go/27.remove-element.go) | [Java](java/27.remove-element.java) |
 | 75 | Array | sort-colors | [Go](go/75.sort-colors.go) | [Java](java/75.sort-colors.java) |
 | 88 | Array | merge-sorted-array | [Go](go/88.merge-sorted-array.go) | [Java](java/88.merge-sorted-array.java) |
-| 215 | Array | kth-largest-element-in-an-array | [Go](go/215.kth-largest-element-in-an-array.go) | [Java](java/215.kth-largest-element-in-an-array.java) |
+| 215 | Array | kth-largest-element-in-an-array | [Go](go/215.kth-largest-element-in-an-array.go) | [Java](java/215.kth-largest-element-in-an-array.java) | :heart: |
 | 167 | Array | two-sum-ii-input-array-is-sorted | [Go](go/167.two-sum-ii-input-array-is-sorted.go) | [Java](java/167.two-sum-ii-input-array-is-sorted.java) |
 | 125 | Array | valid-palindrome | [Go](go/125.valid-palindrome.go) | [Java](java/125.valid-palindrome.java) |
 | 345 | Array | reverse-vowels-of-a-string | [Go](go/345.reverse-vowels-of-a-string.go) | [Java](java/345.reverse-vowels-of-a-string.java) |
 | 209 | Array | minimum-size-subarray-sum | [Go](go/209.minimum-size-subarray-sum.go) | [Java](java/209.minimum-size-subarray-sum.java) |
-| 3 | Array | longest-substring-without-repeating-characters | [Go](go/3.longest-substring-without-repeating-characters.go) | [Java](java/3.longest-substring-without-repeating-characters.java) |
+| 3 | Array | longest-substring-without-repeating-characters | [Go](go/3.longest-substring-without-repeating-characters.go) | [Java](java/3.longest-substring-without-repeating-characters.java) | :heart: |
 | 438 | Array | reverse-vowels-of-a-string | <del>[Go](go/345.reverse-vowels-of-a-string.go) | [Java](java/345.reverse-vowels-of-a-string.java) |
 | 76 | Array | minimum-window-substring | <del>[Go](go/76.minimum-window-substring.go) | [Java](java/76.minimum-window-substring.java) |
 | 349 | Search | intersection-of-two-arrays | <del>[Go](go/349.intersection-of-two-arrays.go) | [Java](java/349.intersection-of-two-arrays.java) |
