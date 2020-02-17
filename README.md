@@ -17,11 +17,11 @@ Env: VS Code + LeetCode Extension.
 | 3 | Array | longest-substring-without-repeating-characters | [Go](go/3.longest-substring-without-repeating-characters.go) | [Java](java/3.longest-substring-without-repeating-characters.java) | :heart: |
 | 438 | Array | find-all-anagrams-in-a-string | [Go](go/438.find-all-anagrams-in-a-string.go) | [Java](java/438.find-all-anagrams-in-a-string.java) | :heart: |
 | 76 | Array | minimum-window-substring | [Go](go/76.minimum-window-substring.go) | [Java](java/76.minimum-window-substring.java) |
-| 349 | Search | intersection-of-two-arrays | <del>[Go](go/349.intersection-of-two-arrays.go) | [Java](java/349.intersection-of-two-arrays.java) |
-| 350 | Search | intersection-of-two-arrays-ii | <del>[Go](go/350.intersection-of-two-arrays-ii.go) | [Java](java/350.intersection-of-two-arrays-ii.java) |
-| 242 | Search | valid-anagram | <del>[Go](go/242.valid-anagram.go) | [Java](java/242.valid-anagram.java) |
-| 202 | Search | happy-number | <del>[Go](go/202.happy-number.go) | [Java](java/202.happy-number.java) |
-| 290 | Search | word-pattern | <del>[Go](go/290.word-pattern.go) | [Java](java/290.word-pattern.java) |
+| 349 | Search | intersection-of-two-arrays | [Go](go/349.intersection-of-two-arrays.go) | [Java](java/349.intersection-of-two-arrays.java) |
+| 350 | Search | intersection-of-two-arrays-ii | [Go](go/350.intersection-of-two-arrays-ii.go) | [Java](java/350.intersection-of-two-arrays-ii.java) |
+| 242 | Search | valid-anagram | [Go](go/242.valid-anagram.go) | [Java](java/242.valid-anagram.java) |
+| 202 | Search | happy-number | [Go](go/202.happy-number.go) | [Java](java/202.happy-number.java) | :heart: |
+| 290 | Search | word-pattern | [Go](go/290.word-pattern.go) | [Java](java/290.word-pattern.java) | :heart: |
 | 205 | Search | isomorphic-strings | <del>[Go](go/205.isomorphic-strings.go) | [Java](java/205.isomorphic-strings.java) |
 | 451 | Search | sort-characters-by-frequency | <del>[Go](go/451.sort-characters-by-frequency.go) | [Java](java/451.sort-characters-by-frequency.java) |
 | 1 | Search | two-sum | <del>[Go](go/1.two-sum.go) | [Java](java/1.two-sum.java) |
