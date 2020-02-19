@@ -26,11 +26,11 @@ Env: VS Code + LeetCode Extension.
 | 451 | Search | sort-characters-by-frequency | [Go](go/451.sort-characters-by-frequency.go) | [Java](java/451.sort-characters-by-frequency.java) | :heart: |
 | 1 | Search | two-sum | [Go](go/1.two-sum.go) | [Java](java/1.two-sum.java) |
 | 15 | Search | 3-sum | [Go](go/15.3-sum.go) | [Java](java/15.3-sum.java) |
-| 18 | Search | 4-sum | <del>[Go](go/18.4-sum.go) | [Java](java/18.4-sum.java) |
-| 16 | Search | 3-sum-closet | <del>[Go](go/16.3-sum-closest.go) | [Java](java/16.3-sum-closest.java) |
+| 18 | Search | 4-sum | [Go](go/18.4-sum.go) | [Java](java/18.4-sum.java) |
+| 16 | Search | 3-sum-closet | [Go](go/16.3-sum-closest.go) | [Java](java/16.3-sum-closest.java) |
 | 454 | Search | 4-sum-ii | [Go](go/454.4-sum-ii.go) | [Java](java/454.4-sum-ii.java) |
 | 49 | Search | group-anagrams | [Go](go/49.group-anagrams.go) | [Java](java/49.group-anagrams.java) | :heart: |
-| 447 | Search | number-of-boomerangs | <del>[Go](go/447.number-of-boomerangs.go) | [Java](java/447.number-of-boomerangs.java) |
+| 447 | Search | number-of-boomerangs | [Go](go/447.number-of-boomerangs.go) | [Java](java/447.number-of-boomerangs.java) |
 | 149 | Search | max-points-on-a-line | <del>[Go](go/149.max-points-on-a-line.go) | [Java](java/149.max-points-on-a-line.java) |
 | 219 | Search | contains-duplicate-ii | <del>[Go](go/219.contains-duplicate-ii.go) | [Java](java/219.contains-duplicate-ii.java) |
 | 217 | Search | contains-duplicate | <del>[Go](go/217.contains-duplicate.go) | [Java](java/217.contains-duplicate.java) |
