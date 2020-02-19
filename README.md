@@ -25,7 +25,7 @@ Env: VS Code + LeetCode Extension.
 | 205 | Search | isomorphic-strings | [Go](go/205.isomorphic-strings.go) | [Java](java/205.isomorphic-strings.java) |
 | 451 | Search | sort-characters-by-frequency | [Go](go/451.sort-characters-by-frequency.go) | [Java](java/451.sort-characters-by-frequency.java) | :heart: |
 | 1 | Search | two-sum | [Go](go/1.two-sum.go) | [Java](java/1.two-sum.java) |
-| 15 | Search | 3-sum | <del>[Go](go/15.3-sum.go) | [Java](java/15.3-sum.java) |
+| 15 | Search | 3-sum | [Go](go/15.3-sum.go) | [Java](java/15.3-sum.java) |
 | 18 | Search | 4-sum | <del>[Go](go/18.4-sum.go) | [Java](java/18.4-sum.java) |
 | 16 | Search | 3-sum-closet | <del>[Go](go/16.3-sum-closest.go) | [Java](java/16.3-sum-closest.java) |
 | 454 | Search | 4-sum-ii | [Go](go/454.4-sum-ii.go) | [Java](java/454.4-sum-ii.java) |
