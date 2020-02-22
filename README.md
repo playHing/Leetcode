@@ -23,7 +23,7 @@ Env: VS Code + LeetCode Extension.
 | 202 | Search | happy-number | [Go](go/202.happy-number.go) | [Java](java/202.happy-number.java) | :heart: |
 | 290 | Search | word-pattern | [Go](go/290.word-pattern.go) | [Java](java/290.word-pattern.java) | :heart: |
 | 205 | Search | isomorphic-strings | [Go](go/205.isomorphic-strings.go) | [Java](java/205.isomorphic-strings.java) |
-| 451 | Search | sort-charactersΩ-by-frequency | [Go](go/451.sort-characters-by-frequency.go) | [Java](java/451.sort-characters-by-frequency.java) | :heart: |
+| 451 | Search | sort-characters-by-frequency | [Go](go/451.sort-characters-by-frequency.go) | [Java](java/451.sort-characters-by-frequency.java) | :heart: |
 | 1 | Search | two-sum | [Go](go/1.two-sum.go) | [Java](java/1.two-sum.java) |
 | 15 | Search | 3-sum | [Go](go/15.3-sum.go) | [Java](java/15.3-sum.java) |
 | 18 | Search | 4-sum | [Go](go/18.4-sum.go) | [Java](java/18.4-sum.java) |
