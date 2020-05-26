@@ -32,7 +32,7 @@ Env: VS Code + LeetCode Extension.
 | 49 | Search | group-anagrams | [Go](go/49.group-anagrams.go) | [Java](java/49.group-anagrams.java) | :heart: |
 | 447 | Search | number-of-boomerangs | [Go](go/447.number-of-boomerangs.go) | [Java](java/447.number-of-boomerangs.java) |
 | 149 | Search | max-points-on-a-line | [Go](go/149.max-points-on-a-line.go) | [Java](java/149.max-points-on-a-line.java) |
-| 219 | Search | contains-duplicate-ii | <del>[Go](go/219.contains-duplicate-ii.go) | [Java](java/219.contains-duplicate-ii.java) |
+| 219 | Search | contains-duplicate-ii | [Go](go/219.contains-duplicate-ii.go) | [Java](java/219.contains-duplicate-ii.java) |
 | 217 | Search | contains-duplicate | <del>[Go](go/217.contains-duplicate.go) | [Java](java/217.contains-duplicate.java) |
 | 220 | Search | contains-duplicate-iii | <del>[Go](go/220.contains-duplicate-iii.go) | [Java](java/220.contains-duplicate-iii.java) |
 | 206 | Linked List | reverse-linked-list | <del>[Go](go/206.reverse-linked-list.go) | [Java](java/206.reverse-linked-list.java) |
@@ -40,7 +40,7 @@ Env: VS Code + LeetCode Extension.
 | 83 | Linked List | remove-duplicates-from-sorted-list | <del>[Go](go/83.remove-duplicates-from-sorted-list.go) | [Java](java/83.remove-duplicates-from-sorted-list.java) |
 | 86 | Linked List | partition-list | <del>[Go](go/86.partition-list.go) | [Java](java/86.partition-list.java) |
 | 328 | Linked List | odd-even-linked-list | <del>[Go](go/328.odd-even-linked-list.go) | [Java](java/328.odd-even-linked-list.java) |
-| 2 | Linked List | add-two-numbers | <del>[Go](go/2.add-two-numbers.go) | [Java](java/2.add-two-numbers.java) |
+| 2 | Linked List | add-two-numbers | [Go](go/2.add-two-numbers.go) | [Java](java/2.add-two-numbers.java) |
 | 445 | Linked List | add-two-numbers-ii | <del>[Go](go/445.add-two-numbers-ii.go) | [Java](java/445.add-two-numbers-ii.java) |
 | 203 | Linked List | remove-linked-list-elements | <del>[Go](go/203.remove-linked-list-elements.go) | [Java](java/203.remove-linked-list-elements.java) |
 | 82 | Linked List | remove-duplicates-from-sorted-list-ii | <del>[Go](go/82.remove-duplicates-from-sorted-list-ii.go) | [Java](java/82.remove-duplicates-from-sorted-list-ii.java) |
