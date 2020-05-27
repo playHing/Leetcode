@@ -56,14 +56,14 @@ Env: VS Code + LeetCode Extension.
 | 234 | Linked List | palindrome-linked-list | <del>[Go](go/234.palindrome-linked-list.go) | [Java](java/234.palindrome-linked-list.java) |
 | 20 | Stack | valid-parentheses | <del>[Go](go/20.valid-parentheses.go) | [Java](java/20.valid-parentheses.java) |
 | 150 | Stack | evaluate-reverse-polish-notation | <del>[Go](go/150.evaluate-reverse-polish-notation.go) | [Java](java/150.evaluate-reverse-polish-notation.java) |
-| 71 | Stack | simplify-path | <del>[Go](go/71.simplify-path.go) | [Java](java/71.simplify-path.java) |
+| 71 | Stack | simplify-path | [Go](go/71.simplify-path.go) | [Java](java/71.simplify-path.java) |
 | 144 | Stack | binary-tree-preorder-traversal | <del>[Go](go/144.binary-tree-preorder-traversal.go) | [Java](java/144.binary-tree-preorder-traversal.java) |
 | 94 | Stack | binary-tree-inorder-traversal | <del>[Go](go/94.binary-tree-inorder-traversal.go) | [Java](java/94.binary-tree-inorder-traversal.java) |
 | 145 | Stack | binary-tree-postorder-traversal | <del>[Go](go/145.binary-tree-postorder-traversal.go) | [Java](java/145.binary-tree-postorder-traversal.java) |
 | 341 | Stack | flatten-nested-list-iterator | <del>[Go](go/341.flatten-nested-list-iterator.go) | [Java](java/341.flatten-nested-list-iterator.java) |
 | 107 | Queue | binary-tree-level-order-traversal-ii | <del>[Go](go/107.binary-tree-level-order-traversal-ii.go) | [Java](java/107.binary-tree-level-order-traversal-ii.java) |
 | 199 | Queue | binary-tree-right-side-view | <del>[Go](go/199.binary-tree-right-side-view.go) | [Java](java/199.binary-tree-right-side-view.java) |
-| 279 | Queue / DP | perfect-squares | <del>[Go](go/279.perfect-squares.go) | [Java](java/279.perfect-squares.java) |
+| 279 | Queue / DP | perfect-squares | [Go](go/279.perfect-squares.go) | [Java](java/279.perfect-squares.java) |
 | 127 | Queue / BFS | word-ladder | <del>[Go](go/127.word-ladder.go) | [Java](java/127.word-ladder.java) |
 | 126 | Queue / BFS | word-ladder-ii | <del>[Go](go/126.word-ladder-ii.go) | [Java](java/126.word-ladder-ii.java) |
 | 347 | Queue | top-k-frequent-elements | <del>[Go](go/347.top-k-frequent-elements.go) | [Java](java/347.top-k-frequent-elements.java) |
