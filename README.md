@@ -44,7 +44,7 @@ Env: VS Code + LeetCode Extension.
 | 445 | Linked List | add-two-numbers-ii | <del>[Go](go/445.add-two-numbers-ii.go) | [Java](java/445.add-two-numbers-ii.java) |
 | 203 | Linked List | remove-linked-list-elements | <del>[Go](go/203.remove-linked-list-elements.go) | [Java](java/203.remove-linked-list-elements.java) |
 | 82 | Linked List | remove-duplicates-from-sorted-list-ii | <del>[Go](go/82.remove-duplicates-from-sorted-list-ii.go) | [Java](java/82.remove-duplicates-from-sorted-list-ii.java) |
-| 21 | Linked List | merge-two-sorted-lists | <del>[Go](go/21.merge-two-sorted-lists.go) | [Java](java/21.merge-two-sorted-lists.java) |
+| 21 | Linked List | merge-two-sorted-lists | [Go](go/21.merge-two-sorted-lists.go) | [Java](java/21.merge-two-sorted-lists.java) |
 | 24 | Linked List | swap-nodes-in-pairs | <del>[Go](go/24.swap-nodes-in-pairs.go) | [Java](java/24.swap-nodes-in-pairs.java) |
 | 25 | Linked List | reverse-nodes-in-k-group | <del>[Go](go/25.reverse-nodes-in-k-group.go) | [Java](java/25.reverse-nodes-in-k-group.java) |
 | 147 | Linked List | insertion-sort-list | <del>[Go](go/147.insertion-sort-list.go) | [Java](java/147.insertion-sort-list.java) |
@@ -75,7 +75,7 @@ Env: VS Code + LeetCode Extension.
 | 101 | Recursice | symmetric-tree | <del>[Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
 | 222 | Recursice | count-complete-tree-nodes | <del>[Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) |
 | 110 | Recursive | balanced-binary-tree | <del>[Go](go/110.balanced-binary-tree.go) | [Java](java/110.balanced-binary-tree.java) |
-| 112 | Recursive | path-sum | <del>[Go](go/112.path-sum.go) | [Java](java/112.path-sum.java) |
+| 112 | Recursive | path-sum | [Go](go/112.path-sum.go) | [Java](java/112.path-sum.java) |
 | 404 | Recursive | sum-of-left-leaves | <del>[Go](go/404.sum-of-left-leaves.go) | [Java](java/404.sum-of-left-leaves.java) |
 | 257 | Recursive | binary-tree-paths | <del>[Go](go/257.binary-tree-paths.go) | [Java](java/257.binary-tree-paths.java) |
 | 113 | Recursive | path-sum-ii | <del>[Go](go/113.path-sum-ii.go) | [Java](java/113.path-sum-ii.java) |
