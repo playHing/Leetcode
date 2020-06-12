@@ -74,7 +74,7 @@ Env: VS Code + LeetCode Extension.
 | 100 | Recursive | same-tree | <del>[Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
 | 101 | Recursice | symmetric-tree | <del>[Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
 | 222 | Recursice | count-complete-tree-nodes | <del>[Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) |
-| 110 | Recursive | balanced-binary-tree | <del>[Go](go/110.balanced-binary-tree.go) | [Java](java/110.balanced-binary-tree.java) |
+| 110 | Recursive | balanced-binary-tree | [Go](go/110.balanced-binary-tree.go) | [Java](java/110.balanced-binary-tree.java) |
 | 112 | Recursive | path-sum | [Go](go/112.path-sum.go) | [Java](java/112.path-sum.java) |
 | 404 | Recursive | sum-of-left-leaves | <del>[Go](go/404.sum-of-left-leaves.go) | [Java](java/404.sum-of-left-leaves.java) |
 | 257 | Recursive | binary-tree-paths | <del>[Go](go/257.binary-tree-paths.go) | [Java](java/257.binary-tree-paths.java) |
