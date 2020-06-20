@@ -34,7 +34,7 @@ Env: VS Code + LeetCode Extension.
 | 149 | Search | max-points-on-a-line | [Go](go/149.max-points-on-a-line.go) | [Java](java/149.max-points-on-a-line.java) |
 | 219 | Search | contains-duplicate-ii | [Go](go/219.contains-duplicate-ii.go) | [Java](java/219.contains-duplicate-ii.java) |
 | 217 | Search | contains-duplicate | [Go](go/217.contains-duplicate.go) | [Java](java/217.contains-duplicate.java) |
-| 220 | Search | contains-duplicate-iii | <del>[Go](go/220.contains-duplicate-iii.go) | [Java](java/220.contains-duplicate-iii.java) |
+| 220 | Search | contains-duplicate-iii | [Go](go/220.contains-duplicate-iii.go) | [Java](java/220.contains-duplicate-iii.java) |
 | 206 | Linked List | reverse-linked-list | [Go](go/206.reverse-linked-list.go) | [Java](java/206.reverse-linked-list.java) |
 | 92 | Linked List | reverse-linked-list-ii | <del>[Go](go/92.reverse-linked-list-ii.go) | [Java](java/92.reverse-linked-list-ii.java) |
 | 83 | Linked List | remove-duplicates-from-sorted-list | <del>[Go](go/83.remove-duplicates-from-sorted-list.go) | [Java](java/83.remove-duplicates-from-sorted-list.java) |
