@@ -11,7 +11,7 @@ Overview
 - [Queue](#Queue)
 - [Recursive](#Recursive)
 - [BST](#BST)
-- [Backtracking + Floodfill](#Backtracking-+-Floodfill)
+- [Backtracking + Floodfill](#Backtracking--Floodfill)
 - [DP](#DP)
 
 ## Array
