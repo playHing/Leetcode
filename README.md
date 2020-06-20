@@ -1,6 +1,6 @@
 # leetcode
 
-leetcode on Go, Java, or Kotlin, or Rust.\
+Leetcode on Golang and Java.\
 Env: VS Code + LeetCode Extension.
 
 Overview
@@ -103,7 +103,7 @@ Overview
 | ---: | --- | --- | ---: | ---: |
 | 104 | Recursive | maximum-depth-of-binary-tree | <del>[Go](go/104.maximum-depth-of-binary-tree.go) | [Java](java/104.maximum-depth-of-binary-tree.java) |
 | 111 | Recursive | minimum-depth-of-binary-tree | <del>[Go](go/111.minimum-depth-of-binary-tree.go) | [Java](java/111.minimum-depth-of-binary-tree.java) |
-| 226 | Recurive | invert-binary-tree | <del>[Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
+| 226 | Recursive | invert-binary-tree | <del>[Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
 | 100 | Recursive | same-tree | <del>[Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
 | 101 | Recursice | symmetric-tree | <del>[Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
 | 222 | Recursice | count-complete-tree-nodes | <del>[Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) |
