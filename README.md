@@ -15,8 +15,9 @@ Overview
 - [DP](#DP)
 
 ## Array
+
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 283 | Array | move-zeroes | [Go](go/283.move-zeroes.go) | [Java](java/283.move-zeroes.java) |
 | 27 | Array | remove-element | [Go](go/27.remove-element.go) | [Java](java/27.remove-element.java) |
 | 75 | Array | sort-colors | [Go](go/75.sort-colors.go) | [Java](java/75.sort-colors.java) |
@@ -32,7 +33,7 @@ Overview
 
 ## Search
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 349 | Search | intersection-of-two-arrays | [Go](go/349.intersection-of-two-arrays.go) | [Java](java/349.intersection-of-two-arrays.java) |
 | 350 | Search | intersection-of-two-arrays-ii | [Go](go/350.intersection-of-two-arrays-ii.go) | [Java](java/350.intersection-of-two-arrays-ii.java) |
 | 242 | Search | valid-anagram | [Go](go/242.valid-anagram.go) | [Java](java/242.valid-anagram.java) |
@@ -54,7 +55,7 @@ Overview
 
 ## Linked List
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 206 | Linked List | reverse-linked-list | [Go](go/206.reverse-linked-list.go) | [Java](java/206.reverse-linked-list.java) |
 | 92 | Linked List | reverse-linked-list-ii | <del>[Go](go/92.reverse-linked-list-ii.go) | [Java](java/92.reverse-linked-list-ii.java) |
 | 83 | Linked List | remove-duplicates-from-sorted-list | <del>[Go](go/83.remove-duplicates-from-sorted-list.go) | [Java](java/83.remove-duplicates-from-sorted-list.java) |
@@ -77,7 +78,7 @@ Overview
 
 ## Stack
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 20 | Stack | valid-parentheses | <del>[Go](go/20.valid-parentheses.go) | [Java](java/20.valid-parentheses.java) |
 | 150 | Stack | evaluate-reverse-polish-notation | <del>[Go](go/150.evaluate-reverse-polish-notation.go) | [Java](java/150.evaluate-reverse-polish-notation.java) |
 | 71 | Stack | simplify-path | [Go](go/71.simplify-path.go) | [Java](java/71.simplify-path.java) |
@@ -88,7 +89,7 @@ Overview
 
 ## Queue
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 107 | Queue | binary-tree-level-order-traversal-ii | <del>[Go](go/107.binary-tree-level-order-traversal-ii.go) | [Java](java/107.binary-tree-level-order-traversal-ii.java) |
 | 199 | Queue | binary-tree-right-side-view | <del>[Go](go/199.binary-tree-right-side-view.go) | [Java](java/199.binary-tree-right-side-view.java) |
 | 279 | Queue / DP | perfect-squares | [Go](go/279.perfect-squares.go) | [Java](java/279.perfect-squares.java) |
@@ -99,7 +100,7 @@ Overview
 
 ## Recursive
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 104 | Recursive | maximum-depth-of-binary-tree | <del>[Go](go/104.maximum-depth-of-binary-tree.go) | [Java](java/104.maximum-depth-of-binary-tree.java) |
 | 111 | Recursive | minimum-depth-of-binary-tree | <del>[Go](go/111.minimum-depth-of-binary-tree.go) | [Java](java/111.minimum-depth-of-binary-tree.java) |
 | 226 | Recurive | invert-binary-tree | <del>[Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
@@ -116,7 +117,7 @@ Overview
 
 ## BST
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 235 | BST | lowest-common-ancestor-of-a-binary-search-tree | <del>[Go](go/235.lowest-common-ancestor-of-a-binary-search-tree.go) | [Java](java/235.lowest-common-ancestor-of-a-binary-search-tree.java) |
 | 98 | BST | validate-binary-search-tree | <del>[Go](go/98.validate-binary-search-tree.go) | [Java](java/98.validate-binary-search-tree.java) |
 | 450 | BST | delete-node-in-a-bst | <del>[Go](go/450.delete-node-in-a-bst.go) | [Java](java/450.delete-node-in-a-bst.java) |
@@ -126,7 +127,7 @@ Overview
 
 ## Backtracking + Floodfill
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 17 | Backtracking | letter-combinations-of-a-phone-number | <del>[Go](go/17.letter-combinations-of-a-phone-number.go) | [Java](java/17.letter-combinations-of-a-phone-number.java) |
 | 93 | Backtracking | restore-ip-addresses | <del>[Go](go/93.restore-ip-addresses.go) | [Java](java/93.restore-ip-addresses.java) |
 | 131 | Backtracking | palindrome-partitioning | <del>[Go](go/131.palindrome-partitioning.go) | [Java](java/131.palindrome-partitioning.java) |
@@ -146,7 +147,7 @@ Overview
 
 ## DP
 | QID | Topic | Question | | Sol |
-| ---: | --- | --- | ---: | ---: | --- |
+| ---: | --- | --- | ---: | ---: |
 | 51 | classic-AI | n-queens | <del>[Go](go/51.n-queens.go) | [Java](java/51.n-queens.java) |
 | 37 | classic-AI | sudoku-solver | <del>[Go](go/37.sudoku-solver.go) | [Java](java/37.sudoku-solver.java) |
 | 70 | DP | climbing-stairs | <del>[Go](go/70.climbing-stairs.go) | [Java](java/70.climbing-stairs.java) |
