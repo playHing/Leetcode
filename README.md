@@ -57,8 +57,8 @@ Overview
 | QID | Topic | Question | | Sol |
 | ---: | --- | --- | ---: | ---: |
 | 206 | Linked List | reverse-linked-list | [Go](go/206.reverse-linked-list.go) | [Java](java/206.reverse-linked-list.java) |
-| 92 | Linked List | reverse-linked-list-ii | <del>[Go](go/92.reverse-linked-list-ii.go) | [Java](java/92.reverse-linked-list-ii.java) |
-| 83 | Linked List | remove-duplicates-from-sorted-list | <del>[Go](go/83.remove-duplicates-from-sorted-list.go) | [Java](java/83.remove-duplicates-from-sorted-list.java) |
+| 92 | Linked List | reverse-linked-list-ii | [Go](go/92.reverse-linked-list-ii.go) | [Java](java/92.reverse-linked-list-ii.java) |
+| 83 | Linked List | remove-duplicates-from-sorted-list | [Go](go/83.remove-duplicates-from-sorted-list.go) | [Java](java/83.remove-duplicates-from-sorted-list.java) |
 | 86 | Linked List | partition-list | [Go](go/86.partition-list.go) | [Java](java/86.partition-list.java) |
 | 328 | Linked List | odd-even-linked-list | <del>[Go](go/328.odd-even-linked-list.go) | [Java](java/328.odd-even-linked-list.java) |
 | 2 | Linked List | add-two-numbers | [Go](go/2.add-two-numbers.go) | [Java](java/2.add-two-numbers.java) |
