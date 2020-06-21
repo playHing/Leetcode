@@ -90,7 +90,7 @@ Overview
 ## Queue
 | QID | Topic | Question | | Sol |
 | ---: | --- | --- | ---: | ---: |
-| 107 | Queue | binary-tree-level-order-traversal-ii | <del>[Go](go/107.binary-tree-level-order-traversal-ii.go) | [Java](java/107.binary-tree-level-order-traversal-ii.java) |
+| 107 | Queue | binary-tree-level-order-traversal-ii | [Go](go/107.binary-tree-level-order-traversal-ii.go) | [Java](java/107.binary-tree-level-order-traversal-ii.java) |
 | 199 | Queue | binary-tree-right-side-view | <del>[Go](go/199.binary-tree-right-side-view.go) | [Java](java/199.binary-tree-right-side-view.java) |
 | 279 | Queue / DP | perfect-squares | [Go](go/279.perfect-squares.go) | [Java](java/279.perfect-squares.java) |
 | 127 | Queue / BFS | word-ladder | <del>[Go](go/127.word-ladder.go) | [Java](java/127.word-ladder.java) |
@@ -101,7 +101,7 @@ Overview
 ## Recursive
 | QID | Topic | Question | | Sol |
 | ---: | --- | --- | ---: | ---: |
-| 104 | Recursive | maximum-depth-of-binary-tree | <del>[Go](go/104.maximum-depth-of-binary-tree.go) | [Java](java/104.maximum-depth-of-binary-tree.java) |
+| 104 | Recursive | maximum-depth-of-binary-tree | [Go](go/104.maximum-depth-of-binary-tree.go) | [Java](java/104.maximum-depth-of-binary-tree.java) |
 | 111 | Recursive | minimum-depth-of-binary-tree | <del>[Go](go/111.minimum-depth-of-binary-tree.go) | [Java](java/111.minimum-depth-of-binary-tree.java) |
 | 226 | Recursive | invert-binary-tree | <del>[Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
 | 100 | Recursive | same-tree | <del>[Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
