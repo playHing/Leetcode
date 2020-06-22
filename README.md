@@ -118,7 +118,7 @@ Overview
 ## BST
 | QID | Topic | Question | | Sol |
 | ---: | --- | --- | ---: | ---: |
-| 235 | BST | lowest-common-ancestor-of-a-binary-search-tree | <del>[Go](go/235.lowest-common-ancestor-of-a-binary-search-tree.go) | [Java](java/235.lowest-common-ancestor-of-a-binary-search-tree.java) |
+| 235 | BST | lowest-common-ancestor-of-a-binary-search-tree | [Go](go/235.lowest-common-ancestor-of-a-binary-search-tree.go) | [Java](java/235.lowest-common-ancestor-of-a-binary-search-tree.java) |
 | 98 | BST | validate-binary-search-tree | <del>[Go](go/98.validate-binary-search-tree.go) | [Java](java/98.validate-binary-search-tree.java) |
 | 450 | BST | delete-node-in-a-bst | <del>[Go](go/450.delete-node-in-a-bst.go) | [Java](java/450.delete-node-in-a-bst.java) |
 | 108 | BST | convert-sorted-array-to-binary-search-tree | <del>[Go](go/108.convert-sorted-array-to-binary-search-tree.go) | [Java](java/108.convert-sorted-array-to-binary-search-tree.java) |
@@ -128,7 +128,7 @@ Overview
 ## Backtracking + Floodfill
 | QID | Topic | Question | | Sol |
 | ---: | --- | --- | ---: | ---: |
-| 17 | Backtracking | letter-combinations-of-a-phone-number | <del>[Go](go/17.letter-combinations-of-a-phone-number.go) | [Java](java/17.letter-combinations-of-a-phone-number.java) |
+| 17 | Backtracking | letter-combinations-of-a-phone-number | [Go](go/17.letter-combinations-of-a-phone-number.go) | [Java](java/17.letter-combinations-of-a-phone-number.java) |
 | 93 | Backtracking | restore-ip-addresses | <del>[Go](go/93.restore-ip-addresses.go) | [Java](java/93.restore-ip-addresses.java) |
 | 131 | Backtracking | palindrome-partitioning | <del>[Go](go/131.palindrome-partitioning.go) | [Java](java/131.palindrome-partitioning.java) |
 | 46 | Backtracking | permutations | <del>[Go](go/46.permutations.go) | [Java](java/46.permutations.java) |
