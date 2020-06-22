@@ -63,7 +63,7 @@ Overview
 | 328 | Linked List | odd-even-linked-list | [Go](go/328.odd-even-linked-list.go) | [Java](java/328.odd-even-linked-list.java) |
 | 2 | Linked List | add-two-numbers | [Go](go/2.add-two-numbers.go) | [Java](java/2.add-two-numbers.java) |
 | 445 | Linked List | add-two-numbers-ii | [Go](go/445.add-two-numbers-ii.go) | [Java](java/445.add-two-numbers-ii.java) |
-| 203 | Linked List | remove-linked-list-elements | <del>[Go](go/203.remove-linked-list-elements.go) | [Java](java/203.remove-linked-list-elements.java) |
+| 203 | Linked List | remove-linked-list-elements | [Go](go/203.remove-linked-list-elements.go) | [Java](java/203.remove-linked-list-elements.java) |
 | 82 | Linked List | remove-duplicates-from-sorted-list-ii | <del>[Go](go/82.remove-duplicates-from-sorted-list-ii.go) | [Java](java/82.remove-duplicates-from-sorted-list-ii.java) |
 | 21 | Linked List | merge-two-sorted-lists | [Go](go/21.merge-two-sorted-lists.go) | [Java](java/21.merge-two-sorted-lists.java) |
 | 24 | Linked List | swap-nodes-in-pairs | <del>[Go](go/24.swap-nodes-in-pairs.go) | [Java](java/24.swap-nodes-in-pairs.java) |
@@ -129,7 +129,7 @@ Overview
 | QID | Topic | Question | | Sol |
 | ---: | --- | --- | ---: | ---: |
 | 17 | Backtracking | letter-combinations-of-a-phone-number | [Go](go/17.letter-combinations-of-a-phone-number.go) | [Java](java/17.letter-combinations-of-a-phone-number.java) |
-| 93 | Backtracking | restore-ip-addresses | <del>[Go](go/93.restore-ip-addresses.go) | [Java](java/93.restore-ip-addresses.java) |
+| 93 | Backtracking | restore-ip-addresses | [Go](go/93.restore-ip-addresses.go) | [Java](java/93.restore-ip-addresses.java) |
 | 131 | Backtracking | palindrome-partitioning | <del>[Go](go/131.palindrome-partitioning.go) | [Java](java/131.palindrome-partitioning.java) |
 | 46 | Backtracking | permutations | <del>[Go](go/46.permutations.go) | [Java](java/46.permutations.java) |
 | 47 | Backtracking | permutations-ii | <del>[Go](go/47.permutations-ii.go) | [Java](java/47.permutations-ii.java) |
