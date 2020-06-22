@@ -60,7 +60,7 @@ Overview
 | 92 | Linked List | reverse-linked-list-ii | [Go](go/92.reverse-linked-list-ii.go) | [Java](java/92.reverse-linked-list-ii.java) |
 | 83 | Linked List | remove-duplicates-from-sorted-list | [Go](go/83.remove-duplicates-from-sorted-list.go) | [Java](java/83.remove-duplicates-from-sorted-list.java) |
 | 86 | Linked List | partition-list | [Go](go/86.partition-list.go) | [Java](java/86.partition-list.java) |
-| 328 | Linked List | odd-even-linked-list | <del>[Go](go/328.odd-even-linked-list.go) | [Java](java/328.odd-even-linked-list.java) |
+| 328 | Linked List | odd-even-linked-list | [Go](go/328.odd-even-linked-list.go) | [Java](java/328.odd-even-linked-list.java) |
 | 2 | Linked List | add-two-numbers | [Go](go/2.add-two-numbers.go) | [Java](java/2.add-two-numbers.java) |
 | 445 | Linked List | add-two-numbers-ii | [Go](go/445.add-two-numbers-ii.go) | [Java](java/445.add-two-numbers-ii.java) |
 | 203 | Linked List | remove-linked-list-elements | <del>[Go](go/203.remove-linked-list-elements.go) | [Java](java/203.remove-linked-list-elements.java) |
@@ -79,7 +79,7 @@ Overview
 ## Stack
 | QID | Topic | Question | | Sol |
 | ---: | --- | --- | ---: | ---: |
-| 20 | Stack | valid-parentheses | <del>[Go](go/20.valid-parentheses.go) | [Java](java/20.valid-parentheses.java) |
+| 20 | Stack | valid-parentheses | [Go](go/20.valid-parentheses.go) | [Java](java/20.valid-parentheses.java) |
 | 150 | Stack | evaluate-reverse-polish-notation | <del>[Go](go/150.evaluate-reverse-polish-notation.go) | [Java](java/150.evaluate-reverse-polish-notation.java) |
 | 71 | Stack | simplify-path | [Go](go/71.simplify-path.go) | [Java](java/71.simplify-path.java) |
 | 144 | Stack | binary-tree-preorder-traversal | <del>[Go](go/144.binary-tree-preorder-traversal.go) | [Java](java/144.binary-tree-preorder-traversal.java) |
