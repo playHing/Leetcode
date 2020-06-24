@@ -93,7 +93,7 @@ Overview
 | 107 | Queue | binary-tree-level-order-traversal-ii | [Go](go/107.binary-tree-level-order-traversal-ii.go) | [Java](java/107.binary-tree-level-order-traversal-ii.java) |
 | 199 | Queue | binary-tree-right-side-view | [Go](go/199.binary-tree-right-side-view.go) | [Java](java/199.binary-tree-right-side-view.java) |
 | 279 | Queue / DP | perfect-squares | [Go](go/279.perfect-squares.go) | [Java](java/279.perfect-squares.java) |
-| 127 | Queue / BFS | word-ladder | <del>[Go](go/127.word-ladder.go) | [Java](java/127.word-ladder.java) |
+| 127 | Queue / BFS | word-ladder | [Go](go/127.word-ladder.go) | [Java](java/127.word-ladder.java) |
 | 126 | Queue / BFS | word-ladder-ii | <del>[Go](go/126.word-ladder-ii.go) | [Java](java/126.word-ladder-ii.java) |
 | 347 | Queue | top-k-frequent-elements | <del>[Go](go/347.top-k-frequent-elements.go) | [Java](java/347.top-k-frequent-elements.java) |
 | 23 | Queue | merge-k-sorted-lists | <del>[Go](go/23.merge-k-sorted-lists.go) | [Java](java/23.merge-k-sorted-lists.java) |
@@ -103,7 +103,7 @@ Overview
 | ---: | --- | --- | ---: | ---: |
 | 104 | Recursive | maximum-depth-of-binary-tree | [Go](go/104.maximum-depth-of-binary-tree.go) | [Java](java/104.maximum-depth-of-binary-tree.java) |
 | 111 | Recursive | minimum-depth-of-binary-tree | [Go](go/111.minimum-depth-of-binary-tree.go) | [Java](java/111.minimum-depth-of-binary-tree.java) |
-| 226 | Recursive | invert-binary-tree | <del>[Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
+| 226 | Recursive | invert-binary-tree | [Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
 | 100 | Recursive | same-tree | <del>[Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
 | 101 | Recursice | symmetric-tree | <del>[Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
 | 222 | Recursice | count-complete-tree-nodes | <del>[Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) |
