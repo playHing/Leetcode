@@ -66,7 +66,7 @@ Overview
 | 203 | Linked List | remove-linked-list-elements | [Go](go/203.remove-linked-list-elements.go) | [Java](java/203.remove-linked-list-elements.java) |
 | 82 | Linked List | remove-duplicates-from-sorted-list-ii | <[Go](go/82.remove-duplicates-from-sorted-list-ii.go) | [Java](java/82.remove-duplicates-from-sorted-list-ii.java) |
 | 21 | Linked List | merge-two-sorted-lists | [Go](go/21.merge-two-sorted-lists.go) | [Java](java/21.merge-two-sorted-lists.java) |
-| 24 | Linked List | swap-nodes-in-pairs | <del>[Go](go/24.swap-nodes-in-pairs.go) | [Java](java/24.swap-nodes-in-pairs.java) |
+| 24 | Linked List | swap-nodes-in-pairs | [Go](go/24.swap-nodes-in-pairs.go) | [Java](java/24.swap-nodes-in-pairs.java) |
 | 25 | Linked List | reverse-nodes-in-k-group | <del>[Go](go/25.reverse-nodes-in-k-group.go) | [Java](java/25.reverse-nodes-in-k-group.java) |
 | 147 | Linked List | insertion-sort-list | <del>[Go](go/147.insertion-sort-list.go) | [Java](java/147.insertion-sort-list.java) |
 | 148 | Linked List | sort-list | <del>[Go](go/148.sort-list.go) | [Java](java/148.sort-list.java) |
@@ -94,7 +94,7 @@ Overview
 | 199 | Queue | binary-tree-right-side-view | [Go](go/199.binary-tree-right-side-view.go) | [Java](java/199.binary-tree-right-side-view.java) |
 | 279 | Queue / DP | perfect-squares | [Go](go/279.perfect-squares.go) | [Java](java/279.perfect-squares.java) |
 | 127 | Queue / BFS | word-ladder | [Go](go/127.word-ladder.go) | [Java](java/127.word-ladder.java) |
-| 126 | Queue / BFS | word-ladder-ii | <del>[Go](go/126.word-ladder-ii.go) | [Java](java/126.word-ladder-ii.java) |
+| 126 | Queue / BFS | word-ladder-ii | [Go](go/126.word-ladder-ii.go) | [Java](java/126.word-ladder-ii.java) |
 | 347 | Queue | top-k-frequent-elements | <del>[Go](go/347.top-k-frequent-elements.go) | [Java](java/347.top-k-frequent-elements.java) |
 | 23 | Queue | merge-k-sorted-lists | <del>[Go](go/23.merge-k-sorted-lists.go) | [Java](java/23.merge-k-sorted-lists.java) |
 

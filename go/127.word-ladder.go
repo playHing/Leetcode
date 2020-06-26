@@ -6,26 +6,25 @@
 
 // @lc code=start
 func ladderLength(beginWord string, endWord string, wordList []string) int {
-	visited := make([]bool, len(wordList))
-	queue := make([]int, 0, len(wordList))
-	queue = append(queue, -1)
+	dict := initDict(wordList)
+	queue := []int{-1}
 	step, curcnt, nextcnt := 1, 1, 0
 	for len(queue) != 0 {
-		idx, word := queue[0], beginWord
+		idx := queue[0]
 		queue = queue[1:]
+
+		word := beginWord
 		if idx != -1 {
-			visited[idx] = true
 			word = wordList[idx]
 		}
 		if word == endWord {
 			return step
 		}
-		for i := 0; i < len(wordList); i++ {
-			if !visited[i] && dist(wordList[i], word) == 1 {
-				queue = append(queue, i)
-				nextcnt++
-			}
-		}
+
+		indexes := idxToAppend(word, dict)
+		queue = append(queue, indexes...)
+		nextcnt += len(indexes)
+
 		if curcnt == 1 {
 			step, curcnt, nextcnt = step+1, nextcnt, 0
 		} else {
@@ -35,16 +34,32 @@ func ladderLength(beginWord string, endWord string, wordList []string) int {
 	return 0
 }
 
-func dist(w1, w2 string) (d int) {
-	for i := 0; i < len(w1); i++ {
-		if w1[i] != w2[i] {
-			d++
-			if d >= 2 {
-				return 2
+func idxToAppend(word string, dict map[string]int) []int {
+	res := make([]int, 0)
+	bytes := []byte(word)
+	for i := 0; i < len(bytes); i++ {
+		ob := bytes[i]
+		for c := 0; c < 26; c++ {
+			if nb := byte('a'+c); nb != ob {
+				bytes[i] = nb
+				str := string(bytes)
+				if idx, b := dict[str]; b {
+					res = append(res, idx)
+					delete(dict, str)
+				}
 			}
 		}
+		bytes[i] = ob
 	}
-	return d
+	return res
+}
+
+func initDict(wordList []string) map[string]int {
+	dict := make(map[string]int)
+	for i, s := range wordList {
+		dict[s] = i
+	}
+	return dict
 }
 // @lc code=end
 
