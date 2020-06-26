@@ -82,7 +82,7 @@ Overview
 | 20 | Stack | valid-parentheses | [Go](go/20.valid-parentheses.go) | [Java](java/20.valid-parentheses.java) |
 | 150 | Stack | evaluate-reverse-polish-notation | [Go](go/150.evaluate-reverse-polish-notation.go) | [Java](java/150.evaluate-reverse-polish-notation.java) |
 | 71 | Stack | simplify-path | [Go](go/71.simplify-path.go) | [Java](java/71.simplify-path.java) |
-| 144 | Stack | binary-tree-preorder-traversal | <del>[Go](go/144.binary-tree-preorder-traversal.go) | [Java](java/144.binary-tree-preorder-traversal.java) |
+| 144 | Stack | binary-tree-preorder-traversal | [Go](go/144.binary-tree-preorder-traversal.go) | [Java](java/144.binary-tree-preorder-traversal.java) |
 | 94 | Stack | binary-tree-inorder-traversal | <del>[Go](go/94.binary-tree-inorder-traversal.go) | [Java](java/94.binary-tree-inorder-traversal.java) |
 | 145 | Stack | binary-tree-postorder-traversal | <del>[Go](go/145.binary-tree-postorder-traversal.go) | [Java](java/145.binary-tree-postorder-traversal.java) |
 | 341 | Stack | flatten-nested-list-iterator | <del>[Go](go/341.flatten-nested-list-iterator.go) | [Java](java/341.flatten-nested-list-iterator.java) |
@@ -104,7 +104,7 @@ Overview
 | 104 | Recursive | maximum-depth-of-binary-tree | [Go](go/104.maximum-depth-of-binary-tree.go) | [Java](java/104.maximum-depth-of-binary-tree.java) |
 | 111 | Recursive | minimum-depth-of-binary-tree | [Go](go/111.minimum-depth-of-binary-tree.go) | [Java](java/111.minimum-depth-of-binary-tree.java) |
 | 226 | Recursive | invert-binary-tree | [Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
-| 100 | Recursive | same-tree | <del>[Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
+| 100 | Recursive | same-tree | [Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
 | 101 | Recursice | symmetric-tree | <del>[Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
 | 222 | Recursice | count-complete-tree-nodes | <del>[Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) |
 | 110 | Recursive | balanced-binary-tree | [Go](go/110.balanced-binary-tree.go) | [Java](java/110.balanced-binary-tree.java) |
