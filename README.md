@@ -64,10 +64,10 @@ Overview
 | 2 | Linked List | add-two-numbers | [Go](go/2.add-two-numbers.go) | [Java](java/2.add-two-numbers.java) |
 | 445 | Linked List | add-two-numbers-ii | [Go](go/445.add-two-numbers-ii.go) | [Java](java/445.add-two-numbers-ii.java) |
 | 203 | Linked List | remove-linked-list-elements | [Go](go/203.remove-linked-list-elements.go) | [Java](java/203.remove-linked-list-elements.java) |
-| 82 | Linked List | remove-duplicates-from-sorted-list-ii | <[Go](go/82.remove-duplicates-from-sorted-list-ii.go) | [Java](java/82.remove-duplicates-from-sorted-list-ii.java) |
+| 82 | Linked List | remove-duplicates-from-sorted-list-ii | [Go](go/82.remove-duplicates-from-sorted-list-ii.go) | [Java](java/82.remove-duplicates-from-sorted-list-ii.java) |
 | 21 | Linked List | merge-two-sorted-lists | [Go](go/21.merge-two-sorted-lists.go) | [Java](java/21.merge-two-sorted-lists.java) |
 | 24 | Linked List | swap-nodes-in-pairs | [Go](go/24.swap-nodes-in-pairs.go) | [Java](java/24.swap-nodes-in-pairs.java) |
-| 25 | Linked List | reverse-nodes-in-k-group | <del>[Go](go/25.reverse-nodes-in-k-group.go) | [Java](java/25.reverse-nodes-in-k-group.java) |
+| 25 | Linked List | reverse-nodes-in-k-group | [Go](go/25.reverse-nodes-in-k-group.go) | [Java](java/25.reverse-nodes-in-k-group.java) |
 | 147 | Linked List | insertion-sort-list | <del>[Go](go/147.insertion-sort-list.go) | [Java](java/147.insertion-sort-list.java) |
 | 148 | Linked List | sort-list | <del>[Go](go/148.sort-list.go) | [Java](java/148.sort-list.java) |
 | 237 | Linked List | delete-node-in-a-linked-list | <del>[Go](go/237.delete-node-in-a-linked-list.go) | [Java](java/237.delete-node-in-a-linked-list.java) |
@@ -105,7 +105,7 @@ Overview
 | 111 | Recursive | minimum-depth-of-binary-tree | [Go](go/111.minimum-depth-of-binary-tree.go) | [Java](java/111.minimum-depth-of-binary-tree.java) |
 | 226 | Recursive | invert-binary-tree | [Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
 | 100 | Recursive | same-tree | [Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
-| 101 | Recursice | symmetric-tree | <del>[Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
+| 101 | Recursice | symmetric-tree | [Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
 | 222 | Recursice | count-complete-tree-nodes | <del>[Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) |
 | 110 | Recursive | balanced-binary-tree | [Go](go/110.balanced-binary-tree.go) | [Java](java/110.balanced-binary-tree.java) |
 | 112 | Recursive | path-sum | [Go](go/112.path-sum.go) | [Java](java/112.path-sum.java) |
