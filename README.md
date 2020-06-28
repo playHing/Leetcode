@@ -105,7 +105,7 @@ Overview
 | 226 | Recursive | invert-binary-tree | [Go](go/226.invert-binary-tree.go) | [Java](java/226.invert-binary-tree.java) |
 | 100 | Recursive | same-tree | [Go](go/100.same-tree.go) | [Java](java/100.same-tree.java) |
 | 101 | Recursice | symmetric-tree | [Go](go/101.symmetric-tree.go) | [Java](java/101.symmetric-tree.java) |
-| 222 | Recursice | count-complete-tree-nodes | [Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) |
+| 222 | Recursice | count-complete-tree-nodes | [Go](go/222.count-complete-tree-nodes.go) | [Java](java/222.count-complete-tree-nodes.java) | :star:
 | 110 | Recursive | balanced-binary-tree | [Go](go/110.balanced-binary-tree.go) | [Java](java/110.balanced-binary-tree.java) |
 | 112 | Recursive | path-sum | [Go](go/112.path-sum.go) | [Java](java/112.path-sum.java) |
 | 404 | Recursive | sum-of-left-leaves | [Go](go/404.sum-of-left-leaves.go) | [Java](java/404.sum-of-left-leaves.java) |
@@ -119,7 +119,7 @@ Overview
 | ---: | --- | --- | ---: | ---: | ---: |
 | 235 | BST | lowest-common-ancestor-of-a-binary-search-tree | [Go](go/235.lowest-common-ancestor-of-a-binary-search-tree.go) | [Java](java/235.lowest-common-ancestor-of-a-binary-search-tree.java) |
 | 98 | BST | validate-binary-search-tree | [Go](go/98.validate-binary-search-tree.go) | [Java](java/98.validate-binary-search-tree.java) |
-| 450 | BST | delete-node-in-a-bst | <del>[Go](go/450.delete-node-in-a-bst.go) | [Java](java/450.delete-node-in-a-bst.java) |
+| 450 | BST | delete-node-in-a-bst | [Go](go/450.delete-node-in-a-bst.go) | [Java](java/450.delete-node-in-a-bst.java) | :star:
 | 108 | BST | convert-sorted-array-to-binary-search-tree | <del>[Go](go/108.convert-sorted-array-to-binary-search-tree.go) | [Java](java/108.convert-sorted-array-to-binary-search-tree.java) |
 | 230 | BST | kth-smallest-element-in-a-bst | <del>[Go](go/230.kth-smallest-element-in-a-bst.go) | [Java](java/230.kth-smallest-element-in-a-bst.java) |
 | 236 | BT | lowest-common-ancestor-of-a-binary-tree | <del>[Go](go/236.lowest-common-ancestor-of-a-binary-tree.go) | [Java](java/236.lowest-common-ancestor-of-a-binary-tree.java) |
