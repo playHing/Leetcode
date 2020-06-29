@@ -69,7 +69,7 @@ Overview
 | 25 | Linked List | reverse-nodes-in-k-group | [Go](go/25.reverse-nodes-in-k-group.go) | [Java](java/25.reverse-nodes-in-k-group.java) |
 | 147 | Linked List | insertion-sort-list | [Go](go/147.insertion-sort-list.go) | [Java](java/147.insertion-sort-list.java) |
 | 148 | Linked List | sort-list | [Go](go/148.sort-list.go) | [Java](java/148.sort-list.java) | :star:
-| 237 | Linked List | delete-node-in-a-linked-list | <del>[Go](go/237.delete-node-in-a-linked-list.go) | [Java](java/237.delete-node-in-a-linked-list.java) |
+| 237 | Linked List | delete-node-in-a-linked-list | [Go](go/237.delete-node-in-a-linked-list.go) | [Java](java/237.delete-node-in-a-linked-list.java) |
 | 19 | Linked List | remove-nth-node-from-end-of-list | <del>[Go](go/19.remove-nth-node-from-end-of-list.go) | [Java](java/19.remove-nth-node-from-end-of-list.java) |
 | 61 | Linked List | rotate-list | <del>[Go](go/61.rotate-list.go) | [Java](java/61.rotate-list.java) |
 | 143 | Linked List | reorder-list | <del>[Go](go/143.reorder-list.go) | [Java](java/143.reorder-list.java) |
@@ -84,7 +84,7 @@ Overview
 | 144 | Stack | binary-tree-preorder-traversal | [Go](go/144.binary-tree-preorder-traversal.go) | [Java](java/144.binary-tree-preorder-traversal.java) |
 | 94 | Stack | binary-tree-inorder-traversal | [Go](go/94.binary-tree-inorder-traversal.go) | [Java](java/94.binary-tree-inorder-traversal.java) |
 | 145 | Stack | binary-tree-postorder-traversal | [Go](go/145.binary-tree-postorder-traversal.go) | [Java](java/145.binary-tree-postorder-traversal.java) |
-| 341 | Stack | flatten-nested-list-iterator | <del>[Go](go/341.flatten-nested-list-iterator.go) | [Java](java/341.flatten-nested-list-iterator.java) |
+| 341 | Stack | flatten-nested-list-iterator | [Go](go/341.flatten-nested-list-iterator.go) | [Java](java/341.flatten-nested-list-iterator.java) |
 
 ## Queue
 | QID | Topic | Question | | Sol | :star:? |
