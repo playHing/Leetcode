@@ -70,7 +70,7 @@ Overview
 | 147 | Linked List | insertion-sort-list | [Go](go/147.insertion-sort-list.go) | [Java](java/147.insertion-sort-list.java) |
 | 148 | Linked List | sort-list | [Go](go/148.sort-list.go) | [Java](java/148.sort-list.java) | :star:
 | 237 | Linked List | delete-node-in-a-linked-list | [Go](go/237.delete-node-in-a-linked-list.go) | [Java](java/237.delete-node-in-a-linked-list.java) |
-| 19 | Linked List | remove-nth-node-from-end-of-list | <del>[Go](go/19.remove-nth-node-from-end-of-list.go) | [Java](java/19.remove-nth-node-from-end-of-list.java) |
+| 19 | Linked List | remove-nth-node-from-end-of-list | [Go](go/19.remove-nth-node-from-end-of-list.go) | [Java](java/19.remove-nth-node-from-end-of-list.java) |
 | 61 | Linked List | rotate-list | <del>[Go](go/61.rotate-list.go) | [Java](java/61.rotate-list.java) |
 | 143 | Linked List | reorder-list | <del>[Go](go/143.reorder-list.go) | [Java](java/143.reorder-list.java) |
 | 234 | Linked List | palindrome-linked-list | <del>[Go](go/234.palindrome-linked-list.go) | [Java](java/234.palindrome-linked-list.java) |
@@ -109,7 +109,7 @@ Overview
 | 110 | Recursive | balanced-binary-tree | [Go](go/110.balanced-binary-tree.go) | [Java](java/110.balanced-binary-tree.java) |
 | 112 | Recursive | path-sum | [Go](go/112.path-sum.go) | [Java](java/112.path-sum.java) |
 | 404 | Recursive | sum-of-left-leaves | [Go](go/404.sum-of-left-leaves.go) | [Java](java/404.sum-of-left-leaves.java) |
-| 257 | Recursive | binary-tree-paths | <del>[Go](go/257.binary-tree-paths.go) | [Java](java/257.binary-tree-paths.java) |
+| 257 | Recursive | binary-tree-paths | [Go](go/257.binary-tree-paths.go) | [Java](java/257.binary-tree-paths.java) |
 | 113 | Recursive | path-sum-ii | <del>[Go](go/113.path-sum-ii.go) | [Java](java/113.path-sum-ii.java) |
 | 129 | Recursive | sum-root-to-leaf-numbers | <del>[Go](go/129.sum-root-to-leaf-numbers.go) | [Java](java/129.sum-root-to-leaf-numbers.java) |
 | 437 | Recursive | path-sum-iii | <del>[Go](go/437.path-sum-iii.go) | [Java](java/437.path-sum-iii.java) |
