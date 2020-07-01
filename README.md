@@ -110,7 +110,7 @@ Overview
 | 112 | Recursive | path-sum | [Go](go/112.path-sum.go) | [Java](java/112.path-sum.java) |
 | 404 | Recursive | sum-of-left-leaves | [Go](go/404.sum-of-left-leaves.go) | [Java](java/404.sum-of-left-leaves.java) |
 | 257 | Recursive | binary-tree-paths | [Go](go/257.binary-tree-paths.go) | [Java](java/257.binary-tree-paths.java) |
-| 113 | Recursive | path-sum-ii | <del>[Go](go/113.path-sum-ii.go) | [Java](java/113.path-sum-ii.java) |
+| 113 | Recursive | path-sum-ii | [Go](go/113.path-sum-ii.go) | [Java](java/113.path-sum-ii.java) |
 | 129 | Recursive | sum-root-to-leaf-numbers | <del>[Go](go/129.sum-root-to-leaf-numbers.go) | [Java](java/129.sum-root-to-leaf-numbers.java) |
 | 437 | Recursive | path-sum-iii | <del>[Go](go/437.path-sum-iii.go) | [Java](java/437.path-sum-iii.java) |
 
@@ -120,7 +120,7 @@ Overview
 | 235 | BST | lowest-common-ancestor-of-a-binary-search-tree | [Go](go/235.lowest-common-ancestor-of-a-binary-search-tree.go) | [Java](java/235.lowest-common-ancestor-of-a-binary-search-tree.java) |
 | 98 | BST | validate-binary-search-tree | [Go](go/98.validate-binary-search-tree.go) | [Java](java/98.validate-binary-search-tree.java) |
 | 450 | BST | delete-node-in-a-bst | [Go](go/450.delete-node-in-a-bst.go) | [Java](java/450.delete-node-in-a-bst.java) | :star:
-| 108 | BST | convert-sorted-array-to-binary-search-tree | <del>[Go](go/108.convert-sorted-array-to-binary-search-tree.go) | [Java](java/108.convert-sorted-array-to-binary-search-tree.java) |
+| 108 | BST | convert-sorted-array-to-binary-search-tree | [Go](go/108.convert-sorted-array-to-binary-search-tree.go) | [Java](java/108.convert-sorted-array-to-binary-search-tree.java) |
 | 230 | BST | kth-smallest-element-in-a-bst | <del>[Go](go/230.kth-smallest-element-in-a-bst.go) | [Java](java/230.kth-smallest-element-in-a-bst.java) |
 | 236 | BT | lowest-common-ancestor-of-a-binary-tree | <del>[Go](go/236.lowest-common-ancestor-of-a-binary-tree.go) | [Java](java/236.lowest-common-ancestor-of-a-binary-tree.java) |
 
