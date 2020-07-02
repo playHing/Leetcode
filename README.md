@@ -121,7 +121,7 @@ Overview
 | 98 | BST | validate-binary-search-tree | [Go](go/98.validate-binary-search-tree.go) | [Java](java/98.validate-binary-search-tree.java) |
 | 450 | BST | delete-node-in-a-bst | [Go](go/450.delete-node-in-a-bst.go) | [Java](java/450.delete-node-in-a-bst.java) | :star:
 | 108 | BST | convert-sorted-array-to-binary-search-tree | [Go](go/108.convert-sorted-array-to-binary-search-tree.go) | [Java](java/108.convert-sorted-array-to-binary-search-tree.java) |
-| 230 | BST | kth-smallest-element-in-a-bst | <del>[Go](go/230.kth-smallest-element-in-a-bst.go) | [Java](java/230.kth-smallest-element-in-a-bst.java) |
+| 230 | BST | kth-smallest-element-in-a-bst | [Go](go/230.kth-smallest-element-in-a-bst.go) | [Java](java/230.kth-smallest-element-in-a-bst.java) | :star:
 | 236 | BT | lowest-common-ancestor-of-a-binary-tree | <del>[Go](go/236.lowest-common-ancestor-of-a-binary-tree.go) | [Java](java/236.lowest-common-ancestor-of-a-binary-tree.java) |
 
 ## Backtracking + Floodfill
@@ -130,8 +130,8 @@ Overview
 | 17 | Backtracking | letter-combinations-of-a-phone-number | [Go](go/17.letter-combinations-of-a-phone-number.go) | [Java](java/17.letter-combinations-of-a-phone-number.java) |
 | 93 | Backtracking | restore-ip-addresses | [Go](go/93.restore-ip-addresses.go) | [Java](java/93.restore-ip-addresses.java) |
 | 131 | Backtracking | palindrome-partitioning | <del>[Go](go/131.palindrome-partitioning.go) | [Java](java/131.palindrome-partitioning.java) |
-| 46 | Backtracking | permutations | <del>[Go](go/46.permutations.go) | [Java](java/46.permutations.java) |
-| 47 | Backtracking | permutations-ii | <del>[Go](go/47.permutations-ii.go) | [Java](java/47.permutations-ii.java) |
+| 46 | Backtracking | permutations | [Go](go/46.permutations.go) | [Java](java/46.permutations.java) |
+| 47 | Backtracking | permutations-ii | [Go](go/47.permutations-ii.go) | [Java](java/47.permutations-ii.java) |
 | 77 | Backtracking | combinations | <del>[Go](go/77.combinations.go) | [Java](java/77.combinations.java) |
 | 39 | Backtracking | combination-sum | <del>[Go](go/39.combination-sum.go) | [Java](java/39.combination-sum.java) |
 | 40 | Backtracking | combination-sum-ii | <del>[Go](go/40.combination-sum-ii.go) | [Java](java/40.combination-sum-ii.java) |
