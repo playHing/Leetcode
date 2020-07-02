@@ -10,24 +10,27 @@ func permute(nums []int) [][]int {
 	if len(nums) == 0 {
 		return res
 	}
-	if len(nums) == 1 {
-		return [][]int{[]int{nums[0]}}
-	}
-	for i := 0; i < len(nums); i++ {
-		subarry := make([]int, len(nums)-1)
-		copy(subarry[:i], nums[:i])
-		copy(subarry[i:], nums[i+1:])
-		subpermute := permute(subarry)
-		for j := 0; j < len(subpermute); j++ {
-			tmp := make([]int, len(subpermute[j])+1)
-			tmp[0] = nums[i]
-			copy(tmp[1:], subpermute[j])
-			subpermute[j] = tmp
+	bitmap := make([]bool, len(nums))
+	var backtrack func([]int)
+	backtrack = func(per []int) {
+		if len(per) == len(nums) {
+			tmp := make([]int, len(nums))
+			copy(tmp, per)
+			res = append(res, tmp)
+			return
 		}
-		if len(subpermute) > 0 {
-			res = append(res, subpermute...)
+		for i := 0; i < len(nums); i++ {
+			if bitmap[i] {
+				continue
+			}
+			bitmap[i] = true
+			per = append(per, nums[i])
+			backtrack(per)
+			per = per[:len(per)-1]
+			bitmap[i] = false
 		}
 	}
+	backtrack([]int{})
 	return res
 }
 // @lc code=end

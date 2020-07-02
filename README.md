@@ -129,7 +129,7 @@ Overview
 | ---: | --- | --- | ---: | ---: | ---: |
 | 17 | Backtracking | letter-combinations-of-a-phone-number | [Go](go/17.letter-combinations-of-a-phone-number.go) | [Java](java/17.letter-combinations-of-a-phone-number.java) |
 | 93 | Backtracking | restore-ip-addresses | [Go](go/93.restore-ip-addresses.go) | [Java](java/93.restore-ip-addresses.java) |
-| 131 | Backtracking | palindrome-partitioning | <del>[Go](go/131.palindrome-partitioning.go) | [Java](java/131.palindrome-partitioning.java) |
+| 131 | Backtracking | palindrome-partitioning | [Go](go/131.palindrome-partitioning.go) | [Java](java/131.palindrome-partitioning.java) |
 | 46 | Backtracking | permutations | [Go](go/46.permutations.go) | [Java](java/46.permutations.java) |
 | 47 | Backtracking | permutations-ii | [Go](go/47.permutations-ii.go) | [Java](java/47.permutations-ii.java) |
 | 77 | Backtracking | combinations | <del>[Go](go/77.combinations.go) | [Java](java/77.combinations.java) |
