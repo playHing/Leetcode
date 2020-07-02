@@ -132,8 +132,8 @@ Overview
 | 131 | Backtracking | palindrome-partitioning | [Go](go/131.palindrome-partitioning.go) | [Java](java/131.palindrome-partitioning.java) |
 | 46 | Backtracking | permutations | [Go](go/46.permutations.go) | [Java](java/46.permutations.java) |
 | 47 | Backtracking | permutations-ii | [Go](go/47.permutations-ii.go) | [Java](java/47.permutations-ii.java) |
-| 77 | Backtracking | combinations | <del>[Go](go/77.combinations.go) | [Java](java/77.combinations.java) |
-| 39 | Backtracking | combination-sum | <del>[Go](go/39.combination-sum.go) | [Java](java/39.combination-sum.java) |
+| 77 | Backtracking | combinations | [Go](go/77.combinations.go) | [Java](java/77.combinations.java) |
+| 39 | Backtracking | combination-sum | [Go](go/39.combination-sum.go) | [Java](java/39.combination-sum.java) |
 | 40 | Backtracking | combination-sum-ii | <del>[Go](go/40.combination-sum-ii.go) | [Java](java/40.combination-sum-ii.java) |
 | 216 | Backtracking | combination-sum-iii | <del>[Go](go/216.combination-sum-iii.go) | [Java](java/216.combination-sum-iii.java) |
 | 78 | Backtracking | subsets | <del>[Go](go/78.subsets.go) | [Java](java/78.subsets.java) |
@@ -149,5 +149,5 @@ Overview
 | ---: | --- | --- | ---: | ---: | ---: |
 | 51 | classic-AI | n-queens | <del>[Go](go/51.n-queens.go) | [Java](java/51.n-queens.java) |
 | 37 | classic-AI | sudoku-solver | <del>[Go](go/37.sudoku-solver.go) | [Java](java/37.sudoku-solver.java) |
-| 70 | DP | climbing-stairs | <del>[Go](go/70.climbing-stairs.go) | [Java](java/70.climbing-stairs.java) |
+| 70 | DP | climbing-stairs | [Go](go/70.climbing-stairs.go) | [Java](java/70.climbing-stairs.java) |
 | 120 | DP | triangle | <del>[Go](go/120.triangle.go) | [Java](java/120.triangle.java) |
