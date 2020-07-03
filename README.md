@@ -122,7 +122,7 @@ Overview
 | 450 | BST | delete-node-in-a-bst | [Go](go/450.delete-node-in-a-bst.go) | [Java](java/450.delete-node-in-a-bst.java) | :star:
 | 108 | BST | convert-sorted-array-to-binary-search-tree | [Go](go/108.convert-sorted-array-to-binary-search-tree.go) | [Java](java/108.convert-sorted-array-to-binary-search-tree.java) |
 | 230 | BST | kth-smallest-element-in-a-bst | [Go](go/230.kth-smallest-element-in-a-bst.go) | [Java](java/230.kth-smallest-element-in-a-bst.java) | :star:
-| 236 | BT | lowest-common-ancestor-of-a-binary-tree | <del>[Go](go/236.lowest-common-ancestor-of-a-binary-tree.go) | [Java](java/236.lowest-common-ancestor-of-a-binary-tree.java) |
+| 236 | BT | lowest-common-ancestor-of-a-binary-tree | [Go](go/236.lowest-common-ancestor-of-a-binary-tree.go) | [Java](java/236.lowest-common-ancestor-of-a-binary-tree.java) |
 
 ## Backtracking + Floodfill
 | QID | Topic | Question | | Sol | :star:? |
@@ -134,7 +134,7 @@ Overview
 | 47 | Backtracking | permutations-ii | [Go](go/47.permutations-ii.go) | [Java](java/47.permutations-ii.java) |
 | 77 | Backtracking | combinations | [Go](go/77.combinations.go) | [Java](java/77.combinations.java) |
 | 39 | Backtracking | combination-sum | [Go](go/39.combination-sum.go) | [Java](java/39.combination-sum.java) |
-| 40 | Backtracking | combination-sum-ii | <del>[Go](go/40.combination-sum-ii.go) | [Java](java/40.combination-sum-ii.java) |
+| 40 | Backtracking | combination-sum-ii | [Go](go/40.combination-sum-ii.go) | [Java](java/40.combination-sum-ii.java) |
 | 216 | Backtracking | combination-sum-iii | <del>[Go](go/216.combination-sum-iii.go) | [Java](java/216.combination-sum-iii.java) |
 | 78 | Backtracking | subsets | <del>[Go](go/78.subsets.go) | [Java](java/78.subsets.java) |
 | 90 | Backtracking | subsets-ii | <del>[Go](go/90.subsets-ii.go) | [Java](java/90.subsets-ii.java) |
