@@ -95,7 +95,7 @@ Overview
 | 127 | Queue / BFS | word-ladder | [Go](go/127.word-ladder.go) | [Java](java/127.word-ladder.java) |
 | 126 | Queue / BFS | word-ladder-ii | [Go](go/126.word-ladder-ii.go) | [Java](java/126.word-ladder-ii.java) |
 | 347 | Queue | top-k-frequent-elements | [Go](go/347.top-k-frequent-elements.go) | [Java](java/347.top-k-frequent-elements.java) |
-| 23 | Queue | merge-k-sorted-lists | <del>[Go](go/23.merge-k-sorted-lists.go) | [Java](java/23.merge-k-sorted-lists.java) |
+| 23 | Queue | merge-k-sorted-lists | [Go](go/23.merge-k-sorted-lists.go) | [Java](java/23.merge-k-sorted-lists.java) |
 
 ## Recursive
 | QID | Topic | Question | | Sol | :star:? |
@@ -112,7 +112,7 @@ Overview
 | 257 | Recursive | binary-tree-paths | [Go](go/257.binary-tree-paths.go) | [Java](java/257.binary-tree-paths.java) |
 | 113 | Recursive | path-sum-ii | [Go](go/113.path-sum-ii.go) | [Java](java/113.path-sum-ii.java) |
 | 129 | Recursive | sum-root-to-leaf-numbers | [Go](go/129.sum-root-to-leaf-numbers.go) | [Java](java/129.sum-root-to-leaf-numbers.java) |
-| 437 | Recursive | path-sum-iii | <del>[Go](go/437.path-sum-iii.go) | [Java](java/437.path-sum-iii.java) |
+| 437 | Recursive | path-sum-iii | [Go](go/437.path-sum-iii.go) | [Java](java/437.path-sum-iii.java) | :star:
 
 ## BST
 | QID | Topic | Question | | Sol | :star:? |
