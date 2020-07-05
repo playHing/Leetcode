@@ -73,7 +73,7 @@ Overview
 | 19 | Linked List | remove-nth-node-from-end-of-list | [Go](go/19.remove-nth-node-from-end-of-list.go) | [Java](java/19.remove-nth-node-from-end-of-list.java) |
 | 61 | Linked List | rotate-list | [Go](go/61.rotate-list.go) | [Java](java/61.rotate-list.java) |
 | 143 | Linked List | reorder-list | [Go](go/143.reorder-list.go) | [Java](java/143.reorder-list.java) |
-| 234 | Linked List | palindrome-linked-list | <del>[Go](go/234.palindrome-linked-list.go) | [Java](java/234.palindrome-linked-list.java) |
+| 234 | Linked List | palindrome-linked-list | [Go](go/234.palindrome-linked-list.go) | [Java](java/234.palindrome-linked-list.java) |
 
 ## Stack
 | QID | Topic | Question | | Sol | :star:? |
@@ -135,7 +135,7 @@ Overview
 | 77 | Backtracking | combinations | [Go](go/77.combinations.go) | [Java](java/77.combinations.java) |
 | 39 | Backtracking | combination-sum | [Go](go/39.combination-sum.go) | [Java](java/39.combination-sum.java) |
 | 40 | Backtracking | combination-sum-ii | [Go](go/40.combination-sum-ii.go) | [Java](java/40.combination-sum-ii.java) |
-| 216 | Backtracking | combination-sum-iii | <del>[Go](go/216.combination-sum-iii.go) | [Java](java/216.combination-sum-iii.java) |
+| 216 | Backtracking | combination-sum-iii | [Go](go/216.combination-sum-iii.go) | [Java](java/216.combination-sum-iii.java) |
 | 78 | Backtracking | subsets | <del>[Go](go/78.subsets.go) | [Java](java/78.subsets.java) |
 | 90 | Backtracking | subsets-ii | <del>[Go](go/90.subsets-ii.go) | [Java](java/90.subsets-ii.java) |
 | 401 | Backtracking | binary-watch | <del>[Go](go/401.binary-watch.go) | [Java](java/401.binary-watch.java) |
