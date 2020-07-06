@@ -138,7 +138,7 @@ Overview
 | 216 | Backtracking | combination-sum-iii | [Go](go/216.combination-sum-iii.go) | [Java](java/216.combination-sum-iii.java) |
 | 78 | Backtracking | subsets | [Go](go/78.subsets.go) | [Java](java/78.subsets.java) |
 | 90 | Backtracking | subsets-ii | [Go](go/90.subsets-ii.go) | [Java](java/90.subsets-ii.java) |
-| 401 | Backtracking | binary-watch | <del>[Go](go/401.binary-watch.go) | [Java](java/401.binary-watch.java) |
+| 401 | Backtracking | binary-watch | [Go](go/401.binary-watch.go) | [Java](java/401.binary-watch.java) |
 | 79 | Backtracking | word-search | <del>[Go](go/79.word-search.go) | [Java](java/79.word-search.java) |
 | 200 | Floodfill | number-of-islands | <del>[Go](go/200.number-of-islands.go) | [Java](java/200.number-of-islands.java) |
 | 130 | Floodfill | surrounded-regions | <del>[Go](go/130.surrounded-regions.go) | [Java](java/130.surrounded-regions.java) |
@@ -150,4 +150,4 @@ Overview
 | 51 | classic-AI | n-queens | [Go](go/51.n-queens.go) | [Java](java/51.n-queens.java) |
 | 37 | classic-AI | sudoku-solver | <del>[Go](go/37.sudoku-solver.go) | [Java](java/37.sudoku-solver.java) |
 | 70 | DP | climbing-stairs | [Go](go/70.climbing-stairs.go) | [Java](java/70.climbing-stairs.java) |
-| 120 | DP | triangle | <del>[Go](go/120.triangle.go) | [Java](java/120.triangle.java) |
+| 120 | DP | triangle | [Go](go/120.triangle.go) | [Java](java/120.triangle.java) |
