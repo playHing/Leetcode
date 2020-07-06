@@ -136,8 +136,8 @@ Overview
 | 39 | Backtracking | combination-sum | [Go](go/39.combination-sum.go) | [Java](java/39.combination-sum.java) |
 | 40 | Backtracking | combination-sum-ii | [Go](go/40.combination-sum-ii.go) | [Java](java/40.combination-sum-ii.java) |
 | 216 | Backtracking | combination-sum-iii | [Go](go/216.combination-sum-iii.go) | [Java](java/216.combination-sum-iii.java) |
-| 78 | Backtracking | subsets | <del>[Go](go/78.subsets.go) | [Java](java/78.subsets.java) |
-| 90 | Backtracking | subsets-ii | <del>[Go](go/90.subsets-ii.go) | [Java](java/90.subsets-ii.java) |
+| 78 | Backtracking | subsets | [Go](go/78.subsets.go) | [Java](java/78.subsets.java) |
+| 90 | Backtracking | subsets-ii | [Go](go/90.subsets-ii.go) | [Java](java/90.subsets-ii.java) |
 | 401 | Backtracking | binary-watch | <del>[Go](go/401.binary-watch.go) | [Java](java/401.binary-watch.java) |
 | 79 | Backtracking | word-search | <del>[Go](go/79.word-search.go) | [Java](java/79.word-search.java) |
 | 200 | Floodfill | number-of-islands | <del>[Go](go/200.number-of-islands.go) | [Java](java/200.number-of-islands.java) |
