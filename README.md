@@ -139,8 +139,8 @@ Overview
 | 78 | Backtracking | subsets | [Go](go/78.subsets.go) | [Java](java/78.subsets.java) |
 | 90 | Backtracking | subsets-ii | [Go](go/90.subsets-ii.go) | [Java](java/90.subsets-ii.java) |
 | 401 | Backtracking | binary-watch | [Go](go/401.binary-watch.go) | [Java](java/401.binary-watch.java) |
-| 79 | Backtracking | word-search | <del>[Go](go/79.word-search.go) | [Java](java/79.word-search.java) |
-| 200 | Floodfill | number-of-islands | <del>[Go](go/200.number-of-islands.go) | [Java](java/200.number-of-islands.java) |
+| 79 | Backtracking | word-search | [Go](go/79.word-search.go) | [Java](java/79.word-search.java) |
+| 200 | Floodfill | number-of-islands | [Go](go/200.number-of-islands.go) | [Java](java/200.number-of-islands.java) |
 | 130 | Floodfill | surrounded-regions | <del>[Go](go/130.surrounded-regions.go) | [Java](java/130.surrounded-regions.java) |
 | 417 | Floodfill | pacific-atlantic-water-flow | <del>[Go](go/417.pacific-atlantic-water-flow.go) | [Java](java/417.pacific-atlantic-water-flow.java) |
 
