@@ -141,13 +141,13 @@ Overview
 | 401 | Backtracking | binary-watch | [Go](go/401.binary-watch.go) | [Java](java/401.binary-watch.java) |
 | 79 | Backtracking | word-search | [Go](go/79.word-search.go) | [Java](java/79.word-search.java) |
 | 200 | Floodfill | number-of-islands | [Go](go/200.number-of-islands.go) | [Java](java/200.number-of-islands.java) |
-| 130 | Floodfill | surrounded-regions | <del>[Go](go/130.surrounded-regions.go) | [Java](java/130.surrounded-regions.java) |
-| 417 | Floodfill | pacific-atlantic-water-flow | <del>[Go](go/417.pacific-atlantic-water-flow.go) | [Java](java/417.pacific-atlantic-water-flow.java) |
+| 130 | Floodfill | surrounded-regions | [Go](go/130.surrounded-regions.go) | [Java](java/130.surrounded-regions.java) |
+| 417 | Floodfill | pacific-atlantic-water-flow | [Go](go/417.pacific-atlantic-water-flow.go) | [Java](java/417.pacific-atlantic-water-flow.java) |
 
 ## DP
 | QID | Topic | Question | | Sol | :star:? |
 | ---: | --- | --- | ---: | ---: | ---: |
 | 51 | classic-AI | n-queens | [Go](go/51.n-queens.go) | [Java](java/51.n-queens.java) |
-| 37 | classic-AI | sudoku-solver | <del>[Go](go/37.sudoku-solver.go) | [Java](java/37.sudoku-solver.java) |
+| 37 | classic-AI | sudoku-solver | [Go](go/37.sudoku-solver.go) | [Java](java/37.sudoku-solver.java) |
 | 70 | DP | climbing-stairs | [Go](go/70.climbing-stairs.go) | [Java](java/70.climbing-stairs.java) |
 | 120 | DP | triangle | [Go](go/120.triangle.go) | [Java](java/120.triangle.java) |
