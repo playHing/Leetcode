@@ -155,3 +155,8 @@ Overview
 | 343 | DP | integer-break | [Go](go/343.integer-break.go) | |
 | 279 | DP | perfect-squares | [Go](go/279.perfect-squares.go) | |
 | 91 | DP | decode-ways | [Go](go/91.decode-ways.go) | |
+| 62 | DP | unique-paths | [Go](go/62.unique-paths.go) | |
+| 63 | DP | unique-paths-ii | [Go](go/63.unique-paths-ii.go) | |
+| 198 | DP | house-robber | [Go](go/198.house-robber.go) | |
+| 213 | DP | house-robber-ii | [Go](go/213.house-robber-ii.go) | |
+| 337 | DP | house-robber-iii | [Go](go/337.house-robber-iii.go) | |
