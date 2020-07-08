@@ -151,3 +151,7 @@ Overview
 | 37 | classic-AI | sudoku-solver | [Go](go/37.sudoku-solver.go) | [Java](java/37.sudoku-solver.java) |
 | 70 | DP | climbing-stairs | [Go](go/70.climbing-stairs.go) | [Java](java/70.climbing-stairs.java) |
 | 120 | DP | triangle | [Go](go/120.triangle.go) | [Java](java/120.triangle.java) |
+｜ 64 ｜ DP | minimum-path-sum | [Go](go/64.minimum-path-sum.go) | |
+| 343 | DP | integer-break | [Go](go/343.integer-break.go) | |
+| 279 | DP | perfect-squares | [Go](go/279.perfect-squares.go) | |
+| 91 | DP | decode-ways | [Go](go/91.decode-ways.go) | |
