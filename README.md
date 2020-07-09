@@ -160,3 +160,5 @@ Overview
 | 198 | DP | house-robber | [Go](go/198.house-robber.go) | |
 | 213 | DP | house-robber-ii | [Go](go/213.house-robber-ii.go) | |
 | 337 | DP | house-robber-iii | [Go](go/337.house-robber-iii.go) | |
+| 309 | DP | best-time-to-buy-and-sell-stock-with-cooldown | [Go](go/309.best-time-to-buy-and-sell-stock-with-cooldown.go) | |
+| 416 | DP | partition-equal-subset-sum | [Go](go/416.partition-equal-subset-sum.go) | |
