@@ -14,16 +14,14 @@ func canPartition(nums []int) bool {
 		return false
 	}
 	c = c/2
-	dp := make([]int, c+1)
+	dp := make([]bool, c+1)
+	dp[0] = true
 	for i := 0; i < len(nums); i++ {
-		for j := c; j >= 0; j-- {
-			if nums[i] <= j && dp[j-nums[i]] + nums[i] > dp[j] {
-				dp[j] = dp[j-nums[i]] + nums[i]
-			}
+		for j := c; j >= nums[i]; j-- {
+			dp[j] = dp[j] || dp[j-nums[i]]
 		}
 	}
-	fmt.Println(dp[c], c)
-	return dp[c] == c
+	return dp[c]
 }
 // @lc code=end
 

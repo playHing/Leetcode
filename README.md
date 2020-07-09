@@ -161,4 +161,9 @@ Overview
 | 213 | DP | house-robber-ii | [Go](go/213.house-robber-ii.go) | |
 | 337 | DP | house-robber-iii | [Go](go/337.house-robber-iii.go) | |
 | 309 | DP | best-time-to-buy-and-sell-stock-with-cooldown | [Go](go/309.best-time-to-buy-and-sell-stock-with-cooldown.go) | |
-| 416 | DP | partition-equal-subset-sum | [Go](go/416.partition-equal-subset-sum.go) | |
+| 416 | DP | partition-equal-subset-sum | [Go](go/416.partition-equal-subset-sum.go) | | :star: 
+| 322 | DP | coin-change | [Go](go/322.coin-change.go) | |
+| 377 | DP | combination-sum-iv | [Go](go/377.combination-sum-iv.go) | | 
+| 474 | DP | ones-and-zeroes | [Go](go/474.ones-and-zeroes.go) | |
+| 139 | DP | word-break | [Go](go/139.word-break.go) | | :star:
+| 494 | DP | target-sum | [Go](go/494.target-sum.go) | | :star:
