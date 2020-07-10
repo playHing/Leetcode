@@ -6,36 +6,36 @@
 
 // @lc code=start
 func findTargetSumWays(nums []int, S int) int {
-    n := len(nums)
+	n := len(nums)
 	total := 0
 	for _, v := range nums {
-	    total += v
+		total += v
 	}
-	m := 2*total + 1
-	
-	if j := S + total; j >= m {
-	    return 0
+	if total < S || S < -total {
+		return 0
 	}
-	
+	c := 2 * total + 1
 	dp := make([][]int, 2)
 	for i := range dp {
-	    dp[i] = make([]int, m)
+		dp[i] = make([]int, c)
 	}
-	dp[0][0+total] = 1
+	dp[0][total] = 1
 	for i := 0; i < n; i++ {
-	    for j := 0; j < m ; j++ {
-		    if dp[0][j] > 0 {
-			    for sign := -1; sign <= 1; sign += 2 {
-					dp[1][j + sign*nums[i]] += dp[0][j]
-				}
+		for j := 0; j < c; j++ {
+			if dp[0][j] == 0 {
+				continue
+			}
+			for sign := -1; sign <= 1; sign += 2 {
+				dp[1][j+sign*nums[i]] += dp[0][j]
 			}
 		}
-		dp[0], dp[1] = dp[1], dp[0] // swap the two rows
-		for j := 0; j < m; j++ {
-		    dp[1][j] = 0 // clear the new second row for the next iteration
+
+		dp[0], dp[1] = dp[1], dp[0]
+		for k := range dp[1] {
+			dp[1][k] = 0
 		}
 	}
-	return dp[0][S+total]
+	return dp[0][total+S]
 }
 // @lc code=end
 

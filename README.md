@@ -167,3 +167,4 @@ Overview
 | 474 | DP | ones-and-zeroes | [Go](go/474.ones-and-zeroes.go) | |
 | 139 | DP | word-break | [Go](go/139.word-break.go) | | :star:
 | 494 | DP | target-sum | [Go](go/494.target-sum.go) | | :star:
+| 300 | DP | longest-increasing-subsequence | [Go](go/300.longest-increasing-subsequence.go) | | :star:
