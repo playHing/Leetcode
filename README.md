@@ -168,3 +168,4 @@ Overview
 | 139 | DP | word-break | [Go](go/139.word-break.go) | | :star:
 | 494 | DP | target-sum | [Go](go/494.target-sum.go) | | :star:
 | 300 | DP | longest-increasing-subsequence | [Go](go/300.longest-increasing-subsequence.go) | | :star:
+| 376 | DP | wiggle-subsequence | [Go](go/376.wiggle-subsequence.go) | |
