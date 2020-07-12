@@ -172,6 +172,7 @@ Overview
 
 ## Greedy
 | QID | Topic | Question | | Sol | :star:? |
+| ---: | --- | --- | ---: | ---: | ---: |
 | 455 | Greedy | assign-cookies | [Go](go/455.assign-cookies.go) | | 
 | 392 | Greedy | is-subsequence | [Go](go/392.is-subsequence.go) | | 
 | 435 | Greedy/DP | non-overlapping-intervals | [Go](go/435.non-overlapping-intervals.go) | |
