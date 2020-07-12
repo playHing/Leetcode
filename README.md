@@ -13,6 +13,8 @@ Overview
 - [BST](#BST)
 - [Backtracking + Floodfill](#Backtracking--Floodfill)
 - [DP](#DP)
+- [Greedy](#Greedy)
+- [Other](#Other)
 
 ## Array
 | QID | Topic | Question | | Sol | :star:? |
@@ -176,3 +178,9 @@ Overview
 | 455 | Greedy | assign-cookies | [Go](go/455.assign-cookies.go) | | 
 | 392 | Greedy | is-subsequence | [Go](go/392.is-subsequence.go) | | 
 | 435 | Greedy/DP | non-overlapping-intervals | [Go](go/435.non-overlapping-intervals.go) | |
+
+## Other
+| QID | Topic | Question | | Sol | :star:? |
+| ---: | --- | --- | ---: | ---: | ---: |
+| 136 | bit | single-number | [Go](go/136.single-number.go) | | 
+| 137 | bit | single-number-ii | [Go](go/137.single-number-ii.go) | | :star:
