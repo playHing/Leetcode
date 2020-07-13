@@ -171,6 +171,7 @@ Overview
 | 494 | DP | target-sum | [Go](go/494.target-sum.go) | | :star:
 | 300 | DP | longest-increasing-subsequence | [Go](go/300.longest-increasing-subsequence.go) | | :star:
 | 376 | DP | wiggle-subsequence | [Go](go/376.wiggle-subsequence.go) | |
+| 5 | DP | longest-palindromic-substring | [Go](go/5.longest-palindromic-substring.go) | | :star:
 
 ## Greedy
 | QID | Topic | Question | | Sol | :star:? |
@@ -184,3 +185,4 @@ Overview
 | ---: | --- | --- | ---: | ---: | ---: |
 | 136 | bit | single-number | [Go](go/136.single-number.go) | | 
 | 137 | bit | single-number-ii | [Go](go/137.single-number-ii.go) | | :star:
+| 146 | LRU | lru-cache | [Go](go/146.lru-cache.go) | | :star:
